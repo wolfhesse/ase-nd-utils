@@ -12,7 +12,7 @@ Cat.find({name: 'Zildjian' }, function(err, kittens) {
 
         kitty = kittens[0];
         kitty.name = 'Renamed';
-       console.log(kitty);
+        console.log(kitty);
         kitty.save(function (err) {
             if (err)
                 console.log('meow');

@@ -6,7 +6,8 @@ var Cat = db.model('Cat', schema);
 
 Cat.find(function (err, kittens) {
     if (err) {
-    } // TODO handle err
+        console.log(err);
+    }
     else {
         console.log(kittens)
         console.log('deleting ' + kittens[0].name);
