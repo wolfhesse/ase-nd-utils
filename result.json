@@ -1,0 +1,1566 @@
+{"count":56,"value":{
+    "title":"r_rss_newsflash",
+    "description":"Pipes Output",
+    "link":"http:\/\/pipes.yahoo.com\/pipes\/pipe.info?_id=e0a190bee0573e91740241d548c68bcf",
+    "pubDate":"Tue, 06 Nov 2012 16:09:17 +0000",
+    "generator":"http:\/\/pipes.yahoo.com\/pipes\/",
+    "callback":"",
+    "items":[
+        {
+            "title":"IT-Business - Einstiger Internet-Star AOL macht kleine Fortschritte",
+            "link":"http:\/\/derstandard.at\/1350260486793\/Einstiger-Internet-Star-AOL-macht-kleine-Fortschritte",
+            "description":"Plus beim Werbe-Umsatz von 7 Prozent auf 340 Mio. Dollar",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350260486793"
+            },
+            "pubDate":"Tue, 06 Nov 2012 16:17:17 +0100",
+            "y:published":{
+                "hour":"15",
+                "timezone":"UTC",
+                "second":"17",
+                "month":"11",
+                "month_name":"November",
+                "minute":"17",
+                "utime":"1352215037",
+                "day":"6",
+                "day_ordinal_suffix":"th",
+                "day_of_week":"2",
+                "day_name":"Tuesday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350260486793"
+            },
+            "y:title":"IT-Business - Einstiger Internet-Star AOL macht kleine Fortschritte"
+        },
+        {
+            "title":"Netzpolitik - Kritik an europ\u00e4ischem Anti-Terror-Projekt \"Clean IT\"",
+            "link":"http:\/\/derstandard.at\/1350260482664\/Kritik-an-europaeischem-Anti-Terror-Projekt-Clean-IT",
+            "description":"<img style=\"float:right;\" src=\"http:\/\/images.derstandard.at\/t\/1\/2012\/11\/06\/1350336193414.jpg\"\/>Tagung in Wien \u2013 Beobachter f\u00fcrchten Ausweitung von \u00dcberwachung und Zensur im Internet",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350260482664"
+            },
+            "pubDate":"Tue, 06 Nov 2012 16:12:00 +0100",
+            "y:published":{
+                "hour":"15",
+                "timezone":"UTC",
+                "second":"0",
+                "month":"11",
+                "month_name":"November",
+                "minute":"12",
+                "utime":"1352214720",
+                "day":"6",
+                "day_ordinal_suffix":"th",
+                "day_of_week":"2",
+                "day_name":"Tuesday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350260482664"
+            },
+            "y:title":"Netzpolitik - Kritik an europ\u00e4ischem Anti-Terror-Projekt \"Clean IT\""
+        },
+        {
+            "title":"IT-Business - Berliner IT-Firma nutzt besondere Begabung von Autisten",
+            "link":"http:\/\/derstandard.at\/1350260477988\/Berliner-IT-Firma-nutzt-besondere-Begabung-von-Autisten",
+            "description":"Auticon stellt gezielt Menschen mit Asperger-Syndrom ein",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350260477988"
+            },
+            "pubDate":"Tue, 06 Nov 2012 15:19:50 +0100",
+            "y:published":{
+                "hour":"14",
+                "timezone":"UTC",
+                "second":"50",
+                "month":"11",
+                "month_name":"November",
+                "minute":"19",
+                "utime":"1352211590",
+                "day":"6",
+                "day_ordinal_suffix":"th",
+                "day_of_week":"2",
+                "day_name":"Tuesday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350260477988"
+            },
+            "y:title":"IT-Business - Berliner IT-Firma nutzt besondere Begabung von Autisten"
+        },
+        {
+            "title":"Jubil\u00e4um - Android feiert f\u00fcnften Geburtstag",
+            "link":"http:\/\/derstandard.at\/1350260476057\/Android-feiert-fuenften-Geburtstag",
+            "description":"<img style=\"float:right;\" src=\"http:\/\/images.derstandard.at\/t\/1\/2012\/11\/06\/1350335878822.jpg\"\/>Im November 2007 erstmals von Google \u00f6ffentlich vorgestellt - Erstes Smartphone sollte noch ein Jahr l\u00e4nger brauchen",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350260476057"
+            },
+            "pubDate":"Tue, 06 Nov 2012 15:11:00 +0100",
+            "y:published":{
+                "hour":"14",
+                "timezone":"UTC",
+                "second":"0",
+                "month":"11",
+                "month_name":"November",
+                "minute":"11",
+                "utime":"1352211060",
+                "day":"6",
+                "day_ordinal_suffix":"th",
+                "day_of_week":"2",
+                "day_name":"Tuesday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350260476057"
+            },
+            "y:title":"Jubil\u00e4um - Android feiert f\u00fcnften Geburtstag"
+        },
+        {
+            "title":"Preisfrage - Take 2-Chef: Spiele f\u00fcr PS4 und Xbox 720 werden nicht teurer",
+            "link":"http:\/\/derstandard.at\/1350260465540\/Take-2-Spiele-fuer-PS4-und-Xbox-720-nicht-teurer",
+            "description":"<img style=\"float:right;\" src=\"http:\/\/images.derstandard.at\/t\/1\/2012\/11\/06\/1350335844974.jpg\"\/>Bessere Technik k\u00f6nnte sich sogar positiv auf die Entwicklungskosten auswirken.",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350260465540"
+            },
+            "pubDate":"Tue, 06 Nov 2012 15:09:37 +0100",
+            "y:published":{
+                "hour":"14",
+                "timezone":"UTC",
+                "second":"37",
+                "month":"11",
+                "month_name":"November",
+                "minute":"9",
+                "utime":"1352210977",
+                "day":"6",
+                "day_ordinal_suffix":"th",
+                "day_of_week":"2",
+                "day_name":"Tuesday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350260465540"
+            },
+            "y:title":"Preisfrage - Take 2-Chef: Spiele f\u00fcr PS4 und Xbox 720 werden nicht teurer"
+        },
+        {
+            "title":"Probleme seit 26. Oktober - Bank Austria kommt aus dem EDV-Schlamassel nicht heraus",
+            "link":"http:\/\/derstandard.at\/1350260466063\/Bank-Austria-kommt-aus-dem-EDV-Schlamassel-nicht-heraus",
+            "description":"<img style=\"float:right;\" src=\"http:\/\/images.derstandard.at\/t\/1\/2012\/11\/06\/1350335546973.jpg\"\/>Firmen-Chef Willibald Cernko k\u00fcndigt \"kleine Wiedergutmachung\" an",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350260466063"
+            },
+            "pubDate":"Tue, 06 Nov 2012 14:15:00 +0100",
+            "y:published":{
+                "hour":"13",
+                "timezone":"UTC",
+                "second":"0",
+                "month":"11",
+                "month_name":"November",
+                "minute":"15",
+                "utime":"1352207700",
+                "day":"6",
+                "day_ordinal_suffix":"th",
+                "day_of_week":"2",
+                "day_name":"Tuesday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350260466063"
+            },
+            "y:title":"Probleme seit 26. Oktober - Bank Austria kommt aus dem EDV-Schlamassel nicht heraus"
+        },
+        {
+            "title":"Social-Gaming - \"Curiosity\": Run aufs W\u00fcrfel-Geheimnis gestartet",
+            "link":"http:\/\/derstandard.at\/1350260449815\/Curiosity-Run-aufs-Wuerfel-Geheimnis-gestartet",
+            "description":"<img style=\"float:right;\" src=\"http:\/\/images.derstandard.at\/t\/1\/2012\/11\/06\/1350335043578.jpg\"\/>Nur einer kann gewinnen und das Geheimnis enth\u00fcllen.",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350260449815"
+            },
+            "pubDate":"Tue, 06 Nov 2012 13:20:00 +0100",
+            "y:published":{
+                "hour":"12",
+                "timezone":"UTC",
+                "second":"0",
+                "month":"11",
+                "month_name":"November",
+                "minute":"20",
+                "utime":"1352204400",
+                "day":"6",
+                "day_ordinal_suffix":"th",
+                "day_of_week":"2",
+                "day_name":"Tuesday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350260449815"
+            },
+            "y:title":"Social-Gaming - \"Curiosity\": Run aufs W\u00fcrfel-Geheimnis gestartet"
+        },
+        {
+            "title":"Comeback - Spammer und Betr\u00fcger setzen wieder auf Fax",
+            "link":"http:\/\/derstandard.at\/1350260451422\/Spammer-und-Betrueger-setzen-wieder-auf-Fax",
+            "description":"<img style=\"float:right;\" src=\"http:\/\/images.derstandard.at\/t\/1\/2012\/11\/06\/1350335072749.jpg\"\/>Bundeskriminalamt warnt vor \"Erbschaftsfaxen\" - Neue Betrugswelle mit dubiosen Schreiben",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350260451422"
+            },
+            "pubDate":"Tue, 06 Nov 2012 13:04:00 +0100",
+            "y:published":{
+                "hour":"12",
+                "timezone":"UTC",
+                "second":"0",
+                "month":"11",
+                "month_name":"November",
+                "minute":"4",
+                "utime":"1352203440",
+                "day":"6",
+                "day_ordinal_suffix":"th",
+                "day_of_week":"2",
+                "day_name":"Tuesday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350260451422"
+            },
+            "y:title":"Comeback - Spammer und Betr\u00fcger setzen wieder auf Fax"
+        },
+        {
+            "title":"Browser-Update - Opera 12.10 ver\u00f6ffentlicht",
+            "link":"http:\/\/derstandard.at\/1350260448194\/Opera-1210-veroeffentlicht",
+            "description":"<img style=\"float:right;\" src=\"http:\/\/images.derstandard.at\/t\/1\/2012\/11\/06\/1350334971747.jpg\"\/>Unterst\u00fctzung f\u00fcr Windows 8, \"Mountain Lion\" undRetina-Displays  - SPDY und DNS Prefetching - Diverse Sicherheitsl\u00fccken beseitigt",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350260448194"
+            },
+            "pubDate":"Tue, 06 Nov 2012 12:52:00 +0100",
+            "y:published":{
+                "hour":"11",
+                "timezone":"UTC",
+                "second":"0",
+                "month":"11",
+                "month_name":"November",
+                "minute":"52",
+                "utime":"1352202720",
+                "day":"6",
+                "day_ordinal_suffix":"th",
+                "day_of_week":"2",
+                "day_name":"Tuesday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350260448194"
+            },
+            "y:title":"Browser-Update - Opera 12.10 ver\u00f6ffentlicht"
+        },
+        {
+            "title":"Digital Rights - Microsoft-Patent: \u00dcberwachung von Konsumverhalten durch Kinect",
+            "link":"http:\/\/derstandard.at\/1350260445650\/Microsoft-Patent-Ueberwachung-von-Konsumverhalten-durch-Kinect",
+            "description":"<img style=\"float:right;\" src=\"http:\/\/images.derstandard.at\/t\/1\/2012\/11\/06\/1350334882053.jpg\"\/>Microsoft h\u00e4lt Patent inne, das die Anzahl der Personen vor einem Fernseher z\u00e4hlt, um Lizenzvereinbarungen zu \u00fcberpr\u00fcfen",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350260445650"
+            },
+            "pubDate":"Tue, 06 Nov 2012 12:42:00 +0100",
+            "y:published":{
+                "hour":"11",
+                "timezone":"UTC",
+                "second":"0",
+                "month":"11",
+                "month_name":"November",
+                "minute":"42",
+                "utime":"1352202120",
+                "day":"6",
+                "day_ordinal_suffix":"th",
+                "day_of_week":"2",
+                "day_name":"Tuesday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350260445650"
+            },
+            "y:title":"Digital Rights - Microsoft-Patent: \u00dcberwachung von Konsumverhalten durch Kinect"
+        },
+        {
+            "title":"Xbox 360 - \"Skyrim\"-Erweiterung \"Dragonborn\" l\u00e4sst Drachenfliegen",
+            "link":"http:\/\/derstandard.at\/1350260444029\/Skyrim-Erweiterung-Dragonborn-laesst-Drachenfliegen",
+            "description":"<img style=\"float:right;\" src=\"http:\/\/images.derstandard.at\/t\/1\/2012\/11\/06\/1350334842499.jpg\"\/>Erscheinungstermine f\u00fcr PC und PS3 wurden nicht genannt.",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350260444029"
+            },
+            "pubDate":"Tue, 06 Nov 2012 12:32:00 +0100",
+            "y:published":{
+                "hour":"11",
+                "timezone":"UTC",
+                "second":"0",
+                "month":"11",
+                "month_name":"November",
+                "minute":"32",
+                "utime":"1352201520",
+                "day":"6",
+                "day_ordinal_suffix":"th",
+                "day_of_week":"2",
+                "day_name":"Tuesday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350260444029"
+            },
+            "y:title":"Xbox 360 - \"Skyrim\"-Erweiterung \"Dragonborn\" l\u00e4sst Drachenfliegen"
+        },
+        {
+            "title":"High-Speed - Kim Dotcom will kostenloses Internet durch Klagen finanzieren",
+            "link":"http:\/\/derstandard.at\/1350260437195\/Kim-Dotcom-will-kostenloses-Internet-durch-Klagen-finanzieren",
+            "description":"<img style=\"float:right;\" src=\"http:\/\/images.derstandard.at\/t\/1\/2012\/11\/06\/1350334611799.jpg\"\/>Dotcom l\u00e4sst das Projekt Pacific Fibre Cable wieder aufleben",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350260437195"
+            },
+            "pubDate":"Tue, 06 Nov 2012 12:04:45 +0100",
+            "y:published":{
+                "hour":"11",
+                "timezone":"UTC",
+                "second":"45",
+                "month":"11",
+                "month_name":"November",
+                "minute":"4",
+                "utime":"1352199885",
+                "day":"6",
+                "day_ordinal_suffix":"th",
+                "day_of_week":"2",
+                "day_name":"Tuesday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350260437195"
+            },
+            "y:title":"High-Speed - Kim Dotcom will kostenloses Internet durch Klagen finanzieren"
+        },
+        {
+            "title":"Apple - US-Gericht verwirft Apple-Klage in Patentstreit mit Google",
+            "link":"http:\/\/derstandard.at\/1350260439274\/US-Gericht-verwirft-Apple-Klage-in-Patentstreit-mit-Google",
+            "description":"Weiter an Einigung mit Apple interessiert",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350260439274"
+            },
+            "pubDate":"Tue, 06 Nov 2012 12:01:11 +0100",
+            "y:published":{
+                "hour":"11",
+                "timezone":"UTC",
+                "second":"11",
+                "month":"11",
+                "month_name":"November",
+                "minute":"1",
+                "utime":"1352199671",
+                "day":"6",
+                "day_ordinal_suffix":"th",
+                "day_of_week":"2",
+                "day_name":"Tuesday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350260439274"
+            },
+            "y:title":"Apple - US-Gericht verwirft Apple-Klage in Patentstreit mit Google"
+        },
+        {
+            "title":"Zweifel - Maps: Google glaubt nicht an Zustimmung von Apple",
+            "link":"http:\/\/derstandard.at\/1350260436570\/Maps-Google-glaubt-nicht-an-Zustimmung-von-Apple",
+            "description":"<img style=\"float:right;\" src=\"http:\/\/images.derstandard.at\/t\/1\/2012\/11\/06\/1350334502258.jpg\"\/>Neue Google Maps App f\u00fcr iOS soll bereits vor Ende des Jahres fertig werden - Zweifel an \"Absegnung\"",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350260436570"
+            },
+            "pubDate":"Tue, 06 Nov 2012 11:53:06 +0100",
+            "y:published":{
+                "hour":"10",
+                "timezone":"UTC",
+                "second":"6",
+                "month":"11",
+                "month_name":"November",
+                "minute":"53",
+                "utime":"1352199186",
+                "day":"6",
+                "day_ordinal_suffix":"th",
+                "day_of_week":"2",
+                "day_name":"Tuesday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350260436570"
+            },
+            "y:title":"Zweifel - Maps: Google glaubt nicht an Zustimmung von Apple"
+        },
+        {
+            "title":"PC - Spielentwickler \u00fcbt massive Kritik an \"Teufelskreis\" Windows 8",
+            "link":"http:\/\/derstandard.at\/1350260425438\/Spielentwickler-uebt-massive-Kritik-an-Teufelskreis-Windows-8",
+            "description":"<img style=\"float:right;\" src=\"http:\/\/images.derstandard.at\/t\/1\/2012\/11\/06\/1350335449189.jpg\"\/>Croteam-Technikchef spricht von \"absichtlichem Teufelskreis\" und hat Angst vor Windows 9.",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350260425438"
+            },
+            "pubDate":"Tue, 06 Nov 2012 11:48:00 +0100",
+            "y:published":{
+                "hour":"10",
+                "timezone":"UTC",
+                "second":"0",
+                "month":"11",
+                "month_name":"November",
+                "minute":"48",
+                "utime":"1352198880",
+                "day":"6",
+                "day_ordinal_suffix":"th",
+                "day_of_week":"2",
+                "day_name":"Tuesday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350260425438"
+            },
+            "y:title":"PC - Spielentwickler \u00fcbt massive Kritik an \"Teufelskreis\" Windows 8"
+        },
+        {
+            "title":"Legend\u00e4r - Online-Community \"Blackbox\" sagt nach 20 Jahren Adieu",
+            "link":"http:\/\/derstandard.at\/1350260413960\/Online-Community-Blackbox-sagt-nach-20-Jahren-Adieu",
+            "description":"<img style=\"float:right;\" src=\"http:\/\/images.derstandard.at\/t\/1\/2012\/11\/06\/1350333861490.jpg\"\/>Am Samstag gibt es noch eine rauschende Abschiedsparty",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350260413960"
+            },
+            "pubDate":"Tue, 06 Nov 2012 11:10:00 +0100",
+            "y:published":{
+                "hour":"10",
+                "timezone":"UTC",
+                "second":"0",
+                "month":"11",
+                "month_name":"November",
+                "minute":"10",
+                "utime":"1352196600",
+                "day":"6",
+                "day_ordinal_suffix":"th",
+                "day_of_week":"2",
+                "day_name":"Tuesday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350260413960"
+            },
+            "y:title":"Legend\u00e4r - Online-Community \"Blackbox\" sagt nach 20 Jahren Adieu"
+        },
+        {
+            "title":"13 GB f\u00fcr OS und Apps - Surface-Tablet: User kritisieren geringen Speicher",
+            "link":"http:\/\/derstandard.at\/1350260416645\/Surface-Tablet-User-kritisieren-geringen-Speicherplatz",
+            "description":"<img style=\"float:right;\" src=\"http:\/\/images.derstandard.at\/t\/1\/2012\/11\/06\/1350333843182.jpg\"\/>Bei 32-GB-Version des Tablets wird gut die H\u00e4lfte des Speichers f\u00fcr Betriebssystem, Office, Apps und Recovery ben\u00f6tigt",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350260416645"
+            },
+            "pubDate":"Tue, 06 Nov 2012 10:32:00 +0100",
+            "y:published":{
+                "hour":"9",
+                "timezone":"UTC",
+                "second":"0",
+                "month":"11",
+                "month_name":"November",
+                "minute":"32",
+                "utime":"1352194320",
+                "day":"6",
+                "day_ordinal_suffix":"th",
+                "day_of_week":"2",
+                "day_name":"Tuesday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350260416645"
+            },
+            "y:title":"13 GB f\u00fcr OS und Apps - Surface-Tablet: User kritisieren geringen Speicher"
+        },
+        {
+            "title":"PC - \"Elite: Dangerous\": Weltraum-Sim aus den 1980ern wird fortgesetzt",
+            "link":"http:\/\/derstandard.at\/1350260407002\/Elite-Dangerous-Weltraum-Sim-aus-den-1980ern-wird-fortgesetzt",
+            "description":"<img style=\"float:right;\" src=\"http:\/\/images.derstandard.at\/t\/1\/2012\/11\/06\/1350333842554.jpg\"\/>Erfinder David Braben verspricht \"massives\" Spiel. Finanzierung \u00fcber Kickstarter.",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350260407002"
+            },
+            "pubDate":"Tue, 06 Nov 2012 10:25:00 +0100",
+            "y:published":{
+                "hour":"9",
+                "timezone":"UTC",
+                "second":"0",
+                "month":"11",
+                "month_name":"November",
+                "minute":"25",
+                "utime":"1352193900",
+                "day":"6",
+                "day_ordinal_suffix":"th",
+                "day_of_week":"2",
+                "day_name":"Tuesday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350260407002"
+            },
+            "y:title":"PC - \"Elite: Dangerous\": Weltraum-Sim aus den 1980ern wird fortgesetzt"
+        },
+        {
+            "title":"Prototyp - Studenten entwickeln \"intelligente\" Jacke f\u00fcr Einsatzkr\u00e4fte",
+            "link":"http:\/\/derstandard.at\/1350260412161\/Studenten-entwickeln-intelligente-Jacke-fuer-Einsatzkraefte",
+            "description":"<img style=\"float:right;\" src=\"http:\/\/images.derstandard.at\/t\/1\/2012\/11\/06\/1350333657963.jpg\"\/>Norwegische Studenten wollen mit Displays in Jacken Kommunikation von Einsatzkr\u00e4ften verbessern",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350260412161"
+            },
+            "pubDate":"Tue, 06 Nov 2012 10:14:00 +0100",
+            "y:published":{
+                "hour":"9",
+                "timezone":"UTC",
+                "second":"0",
+                "month":"11",
+                "month_name":"November",
+                "minute":"14",
+                "utime":"1352193240",
+                "day":"6",
+                "day_ordinal_suffix":"th",
+                "day_of_week":"2",
+                "day_name":"Tuesday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350260412161"
+            },
+            "y:title":"Prototyp - Studenten entwickeln \"intelligente\" Jacke f\u00fcr Einsatzkr\u00e4fte"
+        },
+        {
+            "title":"Fotos - Instagram f\u00fchrt Web-Profile im Facebook-Stil ein",
+            "link":"http:\/\/derstandard.at\/1350260406134\/Instagram-fuehrt-Web-Profile-im-Facebook-Stil-ein",
+            "description":"<img style=\"float:right;\" src=\"http:\/\/images.derstandard.at\/t\/1\/2012\/11\/06\/1350333452930.jpg\"\/>Das Foto-Netzwerk orientiert sich am Netzwerk-Giganten und schl\u00e4gt neue Wege ein",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350260406134"
+            },
+            "pubDate":"Tue, 06 Nov 2012 09:34:00 +0100",
+            "y:published":{
+                "hour":"8",
+                "timezone":"UTC",
+                "second":"0",
+                "month":"11",
+                "month_name":"November",
+                "minute":"34",
+                "utime":"1352190840",
+                "day":"6",
+                "day_ordinal_suffix":"th",
+                "day_of_week":"2",
+                "day_name":"Tuesday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350260406134"
+            },
+            "y:title":"Fotos - Instagram f\u00fchrt Web-Profile im Facebook-Stil ein"
+        },
+        {
+            "title":"Prozessorzukunft - Bericht: Apple erw\u00e4gt Abschied von Intel-Prozessoren",
+            "link":"http:\/\/derstandard.at\/1350260405366\/Bericht-Apple-denkt-ueber-Abgang-von-Intel-Prozessoren-nach",
+            "description":"<img style=\"float:right;\" src=\"http:\/\/images.derstandard.at\/t\/1\/2012\/11\/06\/1350333368142.jpg\"\/>ARM-CPUs auch f\u00fcr Mac-Reihe denkbar - Langfristige Vereinheitlichung",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350260405366"
+            },
+            "pubDate":"Tue, 06 Nov 2012 09:22:00 +0100",
+            "y:published":{
+                "hour":"8",
+                "timezone":"UTC",
+                "second":"0",
+                "month":"11",
+                "month_name":"November",
+                "minute":"22",
+                "utime":"1352190120",
+                "day":"6",
+                "day_ordinal_suffix":"th",
+                "day_of_week":"2",
+                "day_name":"Tuesday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350260405366"
+            },
+            "y:title":"Prozessorzukunft - Bericht: Apple erw\u00e4gt Abschied von Intel-Prozessoren"
+        },
+        {
+            "title":"Hacks - Paypal, VMware und Symantec gehackt: Verdacht auf AntiSec",
+            "link":"http:\/\/derstandard.at\/1350260401913\/Paypal-VMWare-und-Symantec-gehackt-Verdacht-auf-AntiSec",
+            "description":"<img style=\"float:right;\" src=\"http:\/\/images.derstandard.at\/t\/1\/2012\/11\/06\/1350333235532.jpg\"\/>Am Guy Fawkes Day wurden zahlreiche Unternehmen unfreiwillig einem Sicherheitstest unterzogen",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350260401913"
+            },
+            "pubDate":"Tue, 06 Nov 2012 08:44:00 +0100",
+            "y:published":{
+                "hour":"7",
+                "timezone":"UTC",
+                "second":"0",
+                "month":"11",
+                "month_name":"November",
+                "minute":"44",
+                "utime":"1352187840",
+                "day":"6",
+                "day_ordinal_suffix":"th",
+                "day_of_week":"2",
+                "day_name":"Tuesday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350260401913"
+            },
+            "y:title":"Hacks - Paypal, VMware und Symantec gehackt: Verdacht auf AntiSec"
+        },
+        {
+            "title":"Handymarkt - Nokia: \"Wir werden uns sehr starke Stellung wieder erk\u00e4mpfen\"",
+            "link":"http:\/\/derstandard.at\/1350260082197\/Nokia-Wir-werden-uns-sehr-starke-Stellung-wieder-erkaempfen",
+            "description":"<img style=\"float:right;\" src=\"http:\/\/images.derstandard.at\/t\/1\/2012\/11\/05\/1350332828593.jpg\"\/>Firmenchef Stephen Elop: \"Ich kann jetzt kein exaktes Timing nennen\"",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350260082197"
+            },
+            "pubDate":"Mon, 05 Nov 2012 20:32:00 +0100",
+            "y:published":{
+                "hour":"19",
+                "timezone":"UTC",
+                "second":"0",
+                "month":"11",
+                "month_name":"November",
+                "minute":"32",
+                "utime":"1352143920",
+                "day":"5",
+                "day_ordinal_suffix":"th",
+                "day_of_week":"1",
+                "day_name":"Monday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350260082197"
+            },
+            "y:title":"Handymarkt - Nokia: \"Wir werden uns sehr starke Stellung wieder erk\u00e4mpfen\""
+        },
+        {
+            "title":"Apple - Apple verkaufte am ersten Wochenende drei Millionen neue iPads",
+            "link":"http:\/\/derstandard.at\/1350260359393\/Apple-verkaufte-am-ersten-Wochenende-drei-Millionen-neue-iPads",
+            "description":"<img style=\"float:right;\" src=\"http:\/\/images.derstandard.at\/t\/1\/2012\/11\/05\/1350331925165.jpg\"\/>Apple-Chef Tim Cook: \"Wir haben einen neuen Verkaufsrekord\"",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350260359393"
+            },
+            "pubDate":"Mon, 05 Nov 2012 17:25:00 +0100",
+            "y:published":{
+                "hour":"16",
+                "timezone":"UTC",
+                "second":"0",
+                "month":"11",
+                "month_name":"November",
+                "minute":"25",
+                "utime":"1352132700",
+                "day":"5",
+                "day_ordinal_suffix":"th",
+                "day_of_week":"1",
+                "day_name":"Monday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350260359393"
+            },
+            "y:title":"Apple - Apple verkaufte am ersten Wochenende drei Millionen neue iPads"
+        },
+        {
+            "title":"Interna - Gefeuerter iOS-Chef spinnefeind mit Apple-Designer Ive",
+            "link":"http:\/\/derstandard.at\/1350260330019\/Gefeuerter-iOS-Chef-spinnefeind-mit-Apple-Designer-Ive",
+            "description":"<img style=\"float:right;\" src=\"http:\/\/images.derstandard.at\/t\/1\/2012\/11\/05\/1350331222533.jpg\"\/>Scott Forstall und Jony Ive sollen es kaum im selben Raum miteinander ausgehalten haben",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350260330019"
+            },
+            "pubDate":"Mon, 05 Nov 2012 15:12:00 +0100",
+            "y:published":{
+                "hour":"14",
+                "timezone":"UTC",
+                "second":"0",
+                "month":"11",
+                "month_name":"November",
+                "minute":"12",
+                "utime":"1352124720",
+                "day":"5",
+                "day_ordinal_suffix":"th",
+                "day_of_week":"1",
+                "day_name":"Monday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350260330019"
+            },
+            "y:title":"Interna - Gefeuerter iOS-Chef spinnefeind mit Apple-Designer Ive"
+        },
+        {
+            "title":"Windows Phone - Ballmer: Windows Phone wird \"schnell wachsen\"",
+            "link":"http:\/\/derstandard.at\/1350260316176\/Ballmer-Windows-Phone-wird-schnell-wachsen",
+            "description":"<img style=\"float:right;\" src=\"http:\/\/images.derstandard.at\/t\/1\/2012\/11\/05\/1350330837627.jpg\"\/>Microsoft-CEO gibt sich zuversichtlich - Derzeit sei der eigene Marktanteil noch relativ klein",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350260316176"
+            },
+            "pubDate":"Mon, 05 Nov 2012 14:33:00 +0100",
+            "y:published":{
+                "hour":"13",
+                "timezone":"UTC",
+                "second":"0",
+                "month":"11",
+                "month_name":"November",
+                "minute":"33",
+                "utime":"1352122380",
+                "day":"5",
+                "day_ordinal_suffix":"th",
+                "day_of_week":"1",
+                "day_name":"Monday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350260316176"
+            },
+            "y:title":"Windows Phone - Ballmer: Windows Phone wird \"schnell wachsen\""
+        },
+        {
+            "title":"Saftiger Aufschlag - Nexus 4: Viel \u00c4rger \u00fcber Preispolitik von LG",
+            "link":"http:\/\/derstandard.at\/1350260264152\/Nexus-4-Viel-Aerger-ueber-Preispolitik-von-LG",
+            "description":"<img style=\"float:right;\" src=\"http:\/\/images.derstandard.at\/t\/1\/2012\/11\/05\/1350329825195.jpg\"\/>Jenseits des Google Play Store um 200 bis 250 Euro teurer - Spanischer H\u00e4ndler steigt aus",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350260264152"
+            },
+            "pubDate":"Mon, 05 Nov 2012 12:36:00 +0100",
+            "y:published":{
+                "hour":"11",
+                "timezone":"UTC",
+                "second":"0",
+                "month":"11",
+                "month_name":"November",
+                "minute":"36",
+                "utime":"1352115360",
+                "day":"5",
+                "day_ordinal_suffix":"th",
+                "day_of_week":"1",
+                "day_name":"Monday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350260264152"
+            },
+            "y:title":"Saftiger Aufschlag - Nexus 4: Viel \u00c4rger \u00fcber Preispolitik von LG"
+        },
+        {
+            "title":"Kuchengleichnis - Facebook: Zu viel Facebook ist nicht gesund",
+            "link":"http:\/\/derstandard.at\/1350260253462\/Facebook-Zu-viel-Facebook-ist-nicht-gesund",
+            "description":"<img style=\"float:right;\" src=\"http:\/\/images.derstandard.at\/t\/1\/2012\/11\/05\/1350329298607.jpg\"\/>Unternehmen beweist Selbstironie und vergleicht sich mit Geburtstagskuchen, Halloween und Swimming-Pools",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350260253462"
+            },
+            "pubDate":"Mon, 05 Nov 2012 11:09:00 +0100",
+            "y:published":{
+                "hour":"10",
+                "timezone":"UTC",
+                "second":"0",
+                "month":"11",
+                "month_name":"November",
+                "minute":"9",
+                "utime":"1352110140",
+                "day":"5",
+                "day_ordinal_suffix":"th",
+                "day_of_week":"1",
+                "day_name":"Monday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350260253462"
+            },
+            "y:title":"Kuchengleichnis - Facebook: Zu viel Facebook ist nicht gesund"
+        },
+        {
+            "title":"Windows Phone - Eindr\u00fccke vom Nokia Lumia 920: \"Ein Monstertruck\"",
+            "link":"http:\/\/derstandard.at\/1350260189711\/Eindruecke-vom-Nokia-Lumia-920-Ein-Monstertruck",
+            "description":"<img style=\"float:right;\" src=\"http:\/\/images.derstandard.at\/t\/1\/2012\/11\/04\/1350326765985.jpg\"\/>Die gr\u00f6\u00dfte Schw\u00e4che des Telefons ist sein noch in den Anf\u00e4ngen steckendes \u00d6kosystem",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350260189711"
+            },
+            "pubDate":"Sun, 04 Nov 2012 12:46:00 +0100",
+            "y:published":{
+                "hour":"11",
+                "timezone":"UTC",
+                "second":"0",
+                "month":"11",
+                "month_name":"November",
+                "minute":"46",
+                "utime":"1352029560",
+                "day":"4",
+                "day_ordinal_suffix":"th",
+                "day_of_week":"0",
+                "day_name":"Sunday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350260189711"
+            },
+            "y:title":"Windows Phone - Eindr\u00fccke vom Nokia Lumia 920: \"Ein Monstertruck\""
+        },
+        {
+            "title":"Aufkl\u00e4rungsversuche - Mozilla will \"HTML5-Mythen\" klarstellen",
+            "link":"http:\/\/derstandard.at\/1350260103246\/Mozilla-will-HTML5-Mythen-klarstellen",
+            "description":"<img style=\"float:right;\" src=\"http:\/\/images.derstandard.at\/t\/1\/2012\/11\/02\/1350323548926.png\"\/>Ortet Fehlinformationen \u00fcber angebliche Defizite - Von Performance bis zu Offline-Support",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350260103246"
+            },
+            "pubDate":"Fri, 02 Nov 2012 14:37:00 +0100",
+            "y:published":{
+                "hour":"13",
+                "timezone":"UTC",
+                "second":"0",
+                "month":"11",
+                "month_name":"November",
+                "minute":"37",
+                "utime":"1351863420",
+                "day":"2",
+                "day_ordinal_suffix":"nd",
+                "day_of_week":"5",
+                "day_name":"Friday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350260103246"
+            },
+            "y:title":"Aufkl\u00e4rungsversuche - Mozilla will \"HTML5-Mythen\" klarstellen"
+        },
+        {
+            "title":"Copyrights - US-Filesharer soll 1,5 Millionen Dollar f\u00fcr zehn Pornofilme zahlen",
+            "link":"http:\/\/derstandard.at\/1350260070007\/US-Filesharer-soll-15-Millionen-Dollar-fuer-zehn-Pornofilme-zahlen",
+            "description":"<img style=\"float:right;\" src=\"http:\/\/images.derstandard.at\/t\/1\/2012\/11\/02\/1350322457779.jpg\"\/>Nutzer soll Filme \u00fcber Bezahl-Account heruntergeladen und illegal weiterverbreitet haben",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350260070007"
+            },
+            "pubDate":"Fri, 02 Nov 2012 11:28:37 +0100",
+            "y:published":{
+                "hour":"10",
+                "timezone":"UTC",
+                "second":"37",
+                "month":"11",
+                "month_name":"November",
+                "minute":"28",
+                "utime":"1351852117",
+                "day":"2",
+                "day_ordinal_suffix":"nd",
+                "day_of_week":"5",
+                "day_name":"Friday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350260070007"
+            },
+            "y:title":"Copyrights - US-Filesharer soll 1,5 Millionen Dollar f\u00fcr zehn Pornofilme zahlen"
+        },
+        {
+            "title":"Technik - Windows 8: Erfolg h\u00e4ngt an Zehn-Dollar- Komponente",
+            "link":"http:\/\/derstandard.at\/1350259698548\/Windows-8-Erfolg-haengt-an-Zehn-Dollar--Komponente",
+            "description":"<img style=\"float:right;\" src=\"http:\/\/images.derstandard.at\/t\/1\/2012\/10\/30\/1350313085021.jpg\"\/>Neue Scharniere entscheiden \u00fcber Gedeih und Verderb von Convertibles",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350259698548"
+            },
+            "pubDate":"Tue, 30 Oct 2012 17:25:00 +0100",
+            "y:published":{
+                "hour":"16",
+                "timezone":"UTC",
+                "second":"0",
+                "month":"10",
+                "month_name":"October",
+                "minute":"25",
+                "utime":"1351614300",
+                "day":"30",
+                "day_ordinal_suffix":"th",
+                "day_of_week":"2",
+                "day_name":"Tuesday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350259698548"
+            },
+            "y:title":"Technik - Windows 8: Erfolg h\u00e4ngt an Zehn-Dollar- Komponente"
+        },
+        {
+            "title":"Copyrights - 18 Unternehmen gr\u00fcnden Plattform gegen Festplattenabgabe",
+            "link":"http:\/\/derstandard.at\/1350259774564\/18-Unternehmen-gruenden-Plattform-gegen-Festplattenabgabe",
+            "description":"<img style=\"float:right;\" src=\"http:\/\/images.derstandard.at\/t\/1\/2012\/10\/30\/1350311859285.jpg\"\/>\"Es drohen 50 Millionen Euro j\u00e4hrliche Mehrbelastung f\u00fcr die Konsumenten\"",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350259774564"
+            },
+            "pubDate":"Tue, 30 Oct 2012 11:36:00 +0100",
+            "y:published":{
+                "hour":"10",
+                "timezone":"UTC",
+                "second":"0",
+                "month":"10",
+                "month_name":"October",
+                "minute":"36",
+                "utime":"1351593360",
+                "day":"30",
+                "day_ordinal_suffix":"th",
+                "day_of_week":"2",
+                "day_name":"Tuesday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350259774564"
+            },
+            "y:title":"Copyrights - 18 Unternehmen gr\u00fcnden Plattform gegen Festplattenabgabe"
+        },
+        {
+            "title":"Filesharing - RapidShare: Gratis-Downloads wieder ungedrosselt",
+            "link":"http:\/\/derstandard.at\/1350259770407\/RapidShare-Gratis-Downloads-wieder-ungedrosselt",
+            "description":"<img style=\"float:right;\" src=\"http:\/\/images.derstandard.at\/t\/1\/2012\/10\/30\/1350311718087.jpg\"\/>Filehoster arbeitet an neuem Plan im Kampf gegen Softwarepiraterie",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350259770407"
+            },
+            "pubDate":"Tue, 30 Oct 2012 11:24:07 +0100",
+            "y:published":{
+                "hour":"10",
+                "timezone":"UTC",
+                "second":"7",
+                "month":"10",
+                "month_name":"October",
+                "minute":"24",
+                "utime":"1351592647",
+                "day":"30",
+                "day_ordinal_suffix":"th",
+                "day_of_week":"2",
+                "day_name":"Tuesday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350259770407"
+            },
+            "y:title":"Filesharing - RapidShare: Gratis-Downloads wieder ungedrosselt"
+        },
+        {
+            "title":"#OP maZYNGA - Anonymous setzt Zynga ein Ultimatum",
+            "link":"http:\/\/derstandard.at\/1350259626418\/Anonymous-setzt-Spielhersteller-Zynga-ein-Ultimatum",
+            "description":"<img style=\"float:right;\" src=\"http:\/\/images.derstandard.at\/t\/1\/2012\/10\/29\/1350306701537.jpg\"\/>Soll laut internen Dokumenten Entwicklung aus den USA auslagern wollen - Anonymous droht mit Spielever\u00f6ffentlichung",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350259626418"
+            },
+            "pubDate":"Mon, 29 Oct 2012 10:04:00 +0100",
+            "y:published":{
+                "hour":"9",
+                "timezone":"UTC",
+                "second":"0",
+                "month":"10",
+                "month_name":"October",
+                "minute":"4",
+                "utime":"1351501440",
+                "day":"29",
+                "day_ordinal_suffix":"th",
+                "day_of_week":"1",
+                "day_name":"Monday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350259626418"
+            },
+            "y:title":"#OP maZYNGA - Anonymous setzt Zynga ein Ultimatum"
+        },
+        {
+            "title":"Mozilla - Update schlie\u00dft kritische Sicherheitsl\u00fccke in Firefox",
+            "link":"http:\/\/derstandard.at\/1350259560986\/Update-schliesst-kritische-Sicherheitsluecke-im-Firefox",
+            "description":"Auch Mail-Client Thunderbird wurde aktualisiert - Cross-Site-Scripting-L\u00fccke gef\u00e4hrdet die NutzerInnen",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350259560986"
+            },
+            "pubDate":"Sun, 28 Oct 2012 12:52:00 +0100",
+            "y:published":{
+                "hour":"11",
+                "timezone":"UTC",
+                "second":"0",
+                "month":"10",
+                "month_name":"October",
+                "minute":"52",
+                "utime":"1351425120",
+                "day":"28",
+                "day_ordinal_suffix":"th",
+                "day_of_week":"0",
+                "day_name":"Sunday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350259560986"
+            },
+            "y:title":"Mozilla - Update schlie\u00dft kritische Sicherheitsl\u00fccke in Firefox"
+        },
+        {
+            "title":"Nettigkeiten - Mozilla gratuliert Microsoft mit Torte zum Internet Explorer 10",
+            "link":"http:\/\/derstandard.at\/1350259555148\/Mozilla-gratuliert-Microsoft-mit-Torte-zum-Internet-Explorer-10",
+            "description":"<img style=\"float:right;\" src=\"http:\/\/images.derstandard.at\/t\/1\/2012\/10\/28\/1350303853079.jpg\"\/>L\u00e4sst langj\u00e4hrige Tradition zwischen den beiden Browserherstellern wiederaufleben",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350259555148"
+            },
+            "pubDate":"Sun, 28 Oct 2012 10:09:00 +0100",
+            "y:published":{
+                "hour":"9",
+                "timezone":"UTC",
+                "second":"0",
+                "month":"10",
+                "month_name":"October",
+                "minute":"9",
+                "utime":"1351415340",
+                "day":"28",
+                "day_ordinal_suffix":"th",
+                "day_of_week":"0",
+                "day_name":"Sunday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350259555148"
+            },
+            "y:title":"Nettigkeiten - Mozilla gratuliert Microsoft mit Torte zum Internet Explorer 10"
+        },
+        {
+            "title":"Whistleblowing - Anonymous will eigenes WikiLeaks starten",
+            "link":"http:\/\/derstandard.at\/1350259274046\/Anonymous-startet-eigenes-WikiLeaks",
+            "description":"<img style=\"float:right;\" src=\"http:\/\/images.derstandard.at\/t\/1\/2012\/10\/24\/1350294169563.jpg\"\/>Projekt TYLER soll anonyme Regierungsinformationen annehmen und sich von WikiLeaks distanzieren",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1350259274046"
+            },
+            "pubDate":"Wed, 24 Oct 2012 14:35:00 +0200",
+            "y:published":{
+                "hour":"12",
+                "timezone":"UTC",
+                "second":"0",
+                "month":"10",
+                "month_name":"October",
+                "minute":"35",
+                "utime":"1351082100",
+                "day":"24",
+                "day_ordinal_suffix":"th",
+                "day_of_week":"3",
+                "day_name":"Wednesday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1350259274046"
+            },
+            "y:title":"Whistleblowing - Anonymous will eigenes WikiLeaks starten"
+        },
+        {
+            "title":"Blog: Die ethische Maschine - Werbung, quo vadis?",
+            "link":"http:\/\/derstandard.at\/1347493134993\/Werbung--Quo-Vadis",
+            "description":"<img style=\"float:right;\" src=\"http:\/\/images.derstandard.at\/t\/1\/2012\/09\/20\/1347520819447.jpg\"\/>Eigentums\u00e4hnliche Rechte an pers\u00f6nlichen Daten f\u00fcr Werbezwecke",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1347493134993"
+            },
+            "pubDate":"Thu, 20 Sep 2012 18:22:00 +0200",
+            "y:published":{
+                "hour":"16",
+                "timezone":"UTC",
+                "second":"0",
+                "month":"9",
+                "month_name":"September",
+                "minute":"22",
+                "utime":"1348158120",
+                "day":"20",
+                "day_ordinal_suffix":"th",
+                "day_of_week":"4",
+                "day_name":"Thursday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1347493134993"
+            },
+            "y:title":"Blog: Die ethische Maschine - Werbung, quo vadis?"
+        },
+        {
+            "title":"In eigener Sache - Der WebStandard startet YouTube-Kanal",
+            "link":"http:\/\/derstandard.at\/1326504225981\/In-eigener-Sache-Der-WebStandard-startet-YouTube-Kanal",
+            "description":"<img style=\"float:right;\" src=\"http:\/\/images.derstandard.at\/t\/1\/2012\/01\/31\/1326562309756.jpg\"\/>Jetzt alle neuen Videos auch auf YouTube in HD ansehen",
+            "author":"redaktion@derStandard.at (derStandard.at Redaktion)",
+            "category":"News",
+            "guid":{
+                "isPermaLink":"false",
+                "content":"1326504225981"
+            },
+            "pubDate":"Tue, 31 Jan 2012 16:16:00 +0100",
+            "y:published":{
+                "hour":"15",
+                "timezone":"UTC",
+                "second":"0",
+                "month":"1",
+                "month_name":"January",
+                "minute":"16",
+                "utime":"1328022960",
+                "day":"31",
+                "day_ordinal_suffix":"st",
+                "day_of_week":"2",
+                "day_name":"Tuesday",
+                "year":"2012"
+            },
+            "y:id":{
+                "permalink":"false",
+                "value":"1326504225981"
+            },
+            "y:title":"In eigener Sache - Der WebStandard startet YouTube-Kanal"
+        },
+        {
+            "title":"\u00d6sterreichische Apps unter den Besten der Welt",
+            "link":"http:\/\/www.computerwelt.at\/news\/detail\/artikel\/oesterreichische-apps-unter-den-besten-der-welt\/",
+            "pubDate":"Thursday, 1.January 1970 1:00",
+            "media":{
+                "type":"image\/jpg",
+                "url":"http:\/\/www.computerwelt.at\/uploads\/pics\/wsa_mobile.jpg"
+            },
+            "category":{
+                "domain":"http:\/\/www.computerwelt.at\/"
+            },
+            "description":"Mit einer App f\u00fcr Weltenbummler und einer f\u00fcr mobiles Lernen punkten \u00d6sterreichs App-Entwickler beim World Summit Award mobile. Der weltweite Wettbewerb k\u00fcrt im Abstand von zwei Jahren au\u00dfergew\u00f6hnliche und sinnvolle mobile Inhalte aus \u00fcber 160 UN-Mitgliedsstaaten.",
+            "y:published":null,
+            "y:id":{
+                "permalink":"true",
+                "value":null
+            },
+            "y:title":"\u00d6sterreichische Apps unter den Besten der Welt"
+        },
+        {
+            "title":"Wichtige Security-Themen f\u00fcr 2013",
+            "link":"http:\/\/www.computerwelt.at\/news\/security\/standards-it-governance\/detail\/artikel\/wichtige-security-themen-fuer-2013\/",
+            "pubDate":"Monday, 5.November 2012 17:48",
+            "media":{
+                "type":"image\/jpg",
+                "url":"http:\/\/www.computerwelt.at\/uploads\/pics\/Ralph_Kreter_Logrhythm.jpg"
+            },
+            "category":{
+                "domain":"http:\/\/www.computerwelt.at\/news\/security\/standards-it-governance\/",
+                "content":"Standards & IT-Governance"
+            },
+            "description":"Laut Ralph Kreter, Regional Director Central Europe & Middle East bei Logrhythm, stehen kommendes Jahr das \"Big Data-Ph\u00e4nomen\" sowie Angriffe auf kritische, landesweite Infrastrukturen im Mittelpunkt.",
+            "y:published":null,
+            "y:id":{
+                "permalink":"true",
+                "value":null
+            },
+            "y:title":"Wichtige Security-Themen f\u00fcr 2013"
+        },
+        {
+            "title":"Neuer CEO von Barracuda Networks",
+            "link":"http:\/\/www.computerwelt.at\/news\/detail\/artikel\/neuer-ceo-von-barracuda-networks\/",
+            "pubDate":"Monday, 5.November 2012 17:25",
+            "media":{
+                "type":"image\/jpg",
+                "url":"http:\/\/www.computerwelt.at\/uploads\/pics\/William_Jenkins_Barracuda_Networks.jpg"
+            },
+            "category":{
+                "domain":"http:\/\/www.computerwelt.at\/",
+                "content":"Ausbildung & Karriere"
+            },
+            "description":"William \"BJ\" Jenkins ist neuer Chief Executive Officer und Mitglied des Verwaltungsrats von Barracuda Networks. Jenkins war zuvor President der Backup Recovery Systems-Division bei EMC und verf\u00fcgt \u00fcber 16 Jahre Branchenerfahrung.",
+            "y:published":null,
+            "y:id":{
+                "permalink":"true",
+                "value":null
+            },
+            "y:title":"Neuer CEO von Barracuda Networks"
+        },
+        {
+            "title":"Infotech: \"Technology meets Spa\"",
+            "link":"http:\/\/www.computerwelt.at\/news\/business\/wirtschaft\/detail\/artikel\/infotech-technology-meets-spa\/",
+            "pubDate":"Monday, 5.November 2012 16:31",
+            "media":{
+                "type":"image\/jpg",
+                "url":"http:\/\/www.computerwelt.at\/uploads\/pics\/Infotech_Thermen-Event.jpg"
+            },
+            "category":{
+                "domain":"http:\/\/www.computerwelt.at\/news\/business\/wirtschaft\/",
+                "content":"Wirtschaft"
+            },
+            "description":"Infotech, EDV-Systemhaus und Internetprovider mit Sitz in Ried im Innkreis, bietet seinen Kunden IKT-Produkte und -Dienstleistungen. Zudem l\u00e4dt das Unternehmen jedes Jahr zu einer Info-Veranstaltung in entspanntem Rahmen.",
+            "y:published":null,
+            "y:id":{
+                "permalink":"true",
+                "value":null
+            },
+            "y:title":"Infotech: \"Technology meets Spa\""
+        },
+        {
+            "title":"HTC: \u00d6sterreich-Start mit \"Windows Phone 8x\"",
+            "link":"http:\/\/www.computerwelt.at\/news\/business\/wirtschaft\/detail\/artikel\/htc-startet-in-oesterreich-mit-windows-phone-8x\/",
+            "pubDate":"Monday, 5.November 2012 20:06",
+            "media":{
+                "type":"image\/jpg",
+                "url":"http:\/\/www.computerwelt.at\/uploads\/pics\/Windows8_apa2_01.jpg"
+            },
+            "category":{
+                "domain":"http:\/\/www.computerwelt.at\/news\/business\/wirtschaft\/",
+                "content":"Wirtschaft"
+            },
+            "description":"Zeitgleich mit Nokias Lumis 920 hat am Montag auch HTC das erste Smartphone mit Windows 8 in \u00d6sterreich in den Handel gebracht.",
+            "y:published":null,
+            "y:id":{
+                "permalink":"true",
+                "value":null
+            },
+            "y:title":"HTC: \u00d6sterreich-Start mit \"Windows Phone 8x\""
+        },
+        {
+            "title":"T-Mobile Austria warnt vor Investitions-Einbruch",
+            "link":"http:\/\/www.computerwelt.at\/news\/telco-web\/mobilfunk\/detail\/artikel\/t-mobile-austria-warnt-vor-investitions-einbruch\/",
+            "pubDate":"Monday, 5.November 2012 15:31",
+            "media":{
+                "type":"image\/jpg",
+                "url":"http:\/\/www.computerwelt.at\/uploads\/pics\/apa_37.jpg"
+            },
+            "category":{
+                "domain":"http:\/\/www.computerwelt.at\/news\/telco-web\/mobilfunk\/",
+                "content":"Mobilfunk"
+            },
+            "description":"Wenn die die Ertragslage in \u00d6sterreich weiterhin so angespannt bleiben sollte, werde es einen Einbruch bei den Mobilfunkinvestitionen geben, f\u00fcrchtet T-Mobile. Die \u00f6sterreichischen Prokopfinvestitionen bei Telekom-Dienstleistungen sind von 106 auf 62 Euro gesunken.",
+            "y:published":null,
+            "y:id":{
+                "permalink":"true",
+                "value":null
+            },
+            "y:title":"T-Mobile Austria warnt vor Investitions-Einbruch"
+        },
+        {
+            "title":"36 Prozent m\u00fcssen schon mobile Ger\u00e4te sch\u00fctzen",
+            "link":"http:\/\/www.computerwelt.at\/news\/security\/spam-malware\/detail\/artikel\/36-prozent-muessen-schon-mobile-geraete-schuetzen\/",
+            "pubDate":"Monday, 5.November 2012 14:51",
+            "media":{
+                "type":"image\/jpg",
+                "url":"http:\/\/www.computerwelt.at\/uploads\/pics\/Kaspersky_logo.jpg"
+            },
+            "category":{
+                "domain":"http:\/\/www.computerwelt.at\/news\/security\/spam-malware\/",
+                "content":"Spam & Malware"
+            },
+            "description":"In einer aktuellen Umfrage, die von B2B International im Auftrag von Kaspersky unter 3.300 Unternehmen durchgef\u00fchrt wurde, geben mehr als ein Drittel an, mobile Mitarbeiter zu besch\u00e4ftigen.",
+            "y:published":null,
+            "y:id":{
+                "permalink":"true",
+                "value":null
+            },
+            "y:title":"36 Prozent m\u00fcssen schon mobile Ger\u00e4te sch\u00fctzen"
+        },
+        {
+            "title":"Samsung: Schon 30 Millionen verkaufte Galaxy SIII-Smartphones",
+            "link":"http:\/\/www.computerwelt.at\/news\/mobile\/handy-smartphone\/detail\/artikel\/samsung-schon-30-millionen-verkaufte-galaxy-siii-smartphones\/",
+            "pubDate":"Monday, 5.November 2012 13:35",
+            "media":{
+                "type":"image\/jpg",
+                "url":"http:\/\/www.computerwelt.at\/uploads\/pics\/Galaxy_SIII_apa.jpg"
+            },
+            "category":{
+                "domain":"http:\/\/www.computerwelt.at\/news\/mobile\/handy-smartphone\/",
+                "content":"Handy & Smartphone"
+            },
+            "description":"Abseits der Patentprobleme mit Apple und Konsorten kann Samsung beim Smartphone-Flagschiff Galaxy SIII positive Neuigkeiten vermelden.",
+            "y:published":null,
+            "y:id":{
+                "permalink":"true",
+                "value":null
+            },
+            "y:title":"Samsung: Schon 30 Millionen verkaufte Galaxy SIII-Smartphones"
+        },
+        {
+            "title":"Android holt im Tablet-Markt kr\u00e4ftig auf",
+            "link":"http:\/\/www.computerwelt.at\/news\/business\/wirtschaft\/detail\/artikel\/android-holt-im-tablet-markt-kraeftig-auf\/",
+            "pubDate":"Monday, 5.November 2012 12:51",
+            "media":{
+                "type":"image\/jpg",
+                "url":"http:\/\/www.computerwelt.at\/uploads\/pics\/Android_apa.jpg"
+            },
+            "category":{
+                "domain":"http:\/\/www.computerwelt.at\/news\/business\/wirtschaft\/",
+                "content":"Wirtschaft"
+            },
+            "description":"Bei Smartphones ist Android schon die \u00fcberlegene Nummer 1, nun holt die Google-Plattform auch bei Tablets auf.",
+            "y:published":null,
+            "y:id":{
+                "permalink":"true",
+                "value":null
+            },
+            "y:title":"Android holt im Tablet-Markt kr\u00e4ftig auf"
+        },
+        {
+            "title":"EMC: \u00dcbernahme von Silver Tail Systems",
+            "link":"http:\/\/www.computerwelt.at\/news\/detail\/artikel\/emc-uebernahme-von-silver-tail-systems\/",
+            "pubDate":"Monday, 5.November 2012 16:36",
+            "media":null,
+            "category":{
+                "domain":"http:\/\/www.computerwelt.at\/news\/",
+                "content":"NEWS"
+            },
+            "description":"Die L\u00f6sungen von Silver Tail nutzen Big-Data-Analysen zur Bek\u00e4mpfung von Cyberkriminalit\u00e4t. Die Neu\u00fcbernahme wird Teil der RSA Security Division bei EMC.",
+            "y:published":null,
+            "y:id":{
+                "permalink":"true",
+                "value":null
+            },
+            "y:title":"EMC: \u00dcbernahme von Silver Tail Systems"
+        },
+        {
+            "title":"Deutscher Branchenmonitor: Bis Jahresende geht es aufw\u00e4rts",
+            "link":"http:\/\/www.computerwelt.at\/news\/business\/detail\/artikel\/deutscher-branchenmonitor-bis-jahresende-geht-es-aufwaerts\/",
+            "pubDate":"Monday, 5.November 2012 16:35",
+            "media":{
+                "type":"image\/jpg",
+                "url":"http:\/\/www.computerwelt.at\/uploads\/pics\/arrow.jpg"
+            },
+            "category":{
+                "domain":"http:\/\/www.computerwelt.at\/news\/business\/",
+                "content":"Business"
+            },
+            "description":"Die deutsche ITK-Branche scheint von einer Krise weit entfernt. Der Branchenverband Bitkom hat seine Prognose deutlich nach oben korrigiert.",
+            "y:published":null,
+            "y:id":{
+                "permalink":"true",
+                "value":null
+            },
+            "y:title":"Deutscher Branchenmonitor: Bis Jahresende geht es aufw\u00e4rts"
+        },
+        {
+            "title":"Canon mit neuen L\u00f6sungen f\u00fcr mobiles Arbeiten",
+            "link":"http:\/\/www.computerwelt.at\/news\/detail\/artikel\/canon-mit-neuen-loesungen-fuer-mobiles-arbeiten\/",
+            "pubDate":"Monday, 5.November 2012 11:20",
+            "media":{
+                "type":"image\/jpg",
+                "url":"http:\/\/www.computerwelt.at\/uploads\/pics\/Canon_imageFORMULA_DR-C125W_FSL_w_PRINT_SAMPLE.jpg"
+            },
+            "category":{
+                "domain":"http:\/\/www.computerwelt.at\/news\/",
+                "content":"NEWS"
+            },
+            "description":"Canon hat drei L\u00f6sungen zur Dokumentenerfassung pr\u00e4sentiert, die mobiles Arbeiten unterst\u00fctzen und die Anbindung an Cloud-basierte Datenverwaltungsdienste erm\u00f6glichen sollen.",
+            "y:published":null,
+            "y:id":{
+                "permalink":"true",
+                "value":null
+            },
+            "y:title":"Canon mit neuen L\u00f6sungen f\u00fcr mobiles Arbeiten"
+        },
+        {
+            "title":"Facebook-Manager nutzen B\u00f6rse als Geldautomaten",
+            "link":"http:\/\/www.computerwelt.at\/news\/detail\/artikel\/facebook-manager-nutzen-boerse-als-geldautomaten\/",
+            "pubDate":"Monday, 5.November 2012 20:09",
+            "media":{
+                "type":"image\/png",
+                "url":"http:\/\/www.computerwelt.at\/uploads\/pics\/facebook-logo2_02.png"
+            },
+            "category":{
+                "domain":"http:\/\/www.computerwelt.at\/news\/",
+                "content":"NEWS"
+            },
+            "description":"Manager des sozialen Netzwerks Facebook machen Millionen mit dem Verkauf von Aktien nach Ablauf der Haltefristen. Auch die Nummer zwei der Facebook-Hierarchie, Sheryl Sandberg, verkaufte knapp 353.000 Aktien und nahm damit rund 7,44 Mio. Dollar, also rund 5,8 Mio. Euro ein.",
+            "y:published":null,
+            "y:id":{
+                "permalink":"true",
+                "value":null
+            },
+            "y:title":"Facebook-Manager nutzen B\u00f6rse als Geldautomaten"
+        },
+        {
+            "title":"Internationale Auszeichnung f\u00fcr App von Imtech Austria",
+            "link":"http:\/\/www.computerwelt.at\/news\/detail\/artikel\/internationale-auszeichnung-fuer-imtech-austria\/",
+            "pubDate":"Monday, 5.November 2012 14:16",
+            "media":{
+                "type":"image\/jpg",
+                "url":"http:\/\/www.computerwelt.at\/uploads\/pics\/Imtech_Austria_Logo_01.jpeg"
+            },
+            "category":{
+                "domain":"http:\/\/www.computerwelt.at\/news\/",
+                "content":"NEWS"
+            },
+            "description":"Besonders f\u00fcr die Bereiche f\u00fcr Vertrieb und Au\u00dfendienst sind die Einsatzm\u00f6glichkeiten von Mobile Business sinnvoll. Imtech ICT Austria hat nun speziell f\u00fcr diese Einsatzbereiche eine plattformneutrale App entwickelt, die den \"Magic xpa Partner Award\" f\u00fcr den DACH-Raum erhalten hat.",
+            "y:published":null,
+            "y:id":{
+                "permalink":"true",
+                "value":null
+            },
+            "y:title":"Internationale Auszeichnung f\u00fcr App von Imtech Austria"
+        },
+        {
+            "title":"Martin Fink ist neuer HP-CTO",
+            "link":"http:\/\/www.computerwelt.at\/news\/business\/detail\/artikel\/martin-fink-ist-neuer-hp-cto\/",
+            "pubDate":"Monday, 5.November 2012 16:34",
+            "media":{
+                "type":"image\/jpg",
+                "url":"http:\/\/www.computerwelt.at\/uploads\/pics\/Fink-HP.jpg"
+            },
+            "category":{
+                "domain":"http:\/\/www.computerwelt.at\/news\/business\/",
+                "content":"Business"
+            },
+            "description":"Das HP-Urgestein hatte zuletzt die BCS-Sparte von HP geleitet.",
+            "y:published":null,
+            "y:id":{
+                "permalink":"true",
+                "value":null
+            },
+            "y:title":"Martin Fink ist neuer HP-CTO"
+        },
+        {
+            "title":"Die Sicherheitsprobleme durch BYOD",
+            "link":"http:\/\/www.computerwelt.at\/news\/enterprise\/strategy\/detail\/artikel\/-eb5e528202\/",
+            "pubDate":"Sunday, 4.November 2012 18:44",
+            "media":{
+                "type":"image\/jpg",
+                "url":"http:\/\/www.computerwelt.at\/uploads\/pics\/05_tablet_neu_Mihai_Simonia_-_Fotolia_02.jpg"
+            },
+            "category":{
+                "domain":"http:\/\/www.computerwelt.at\/news\/enterprise\/strategy\/",
+                "content":"Strategy"
+            },
+            "description":"Deutsche CIOs installieren bei Sicherheitsproblemen Security-Software, US-CIOs stoppen BYOD. Das geht aus zwei Studien hervor, die Trend Micro in Auftrag gegeben hat.",
+            "y:published":null,
+            "y:id":{
+                "permalink":"true",
+                "value":null
+            },
+            "y:title":"Die Sicherheitsprobleme durch BYOD"
+        }
+    ]
+}}
