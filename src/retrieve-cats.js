@@ -18,5 +18,5 @@ Cat.find(function (err, kittens) {
 
 console.log('through');
 
-db.close();
+
 

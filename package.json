@@ -17,6 +17,7 @@
         "handlebars-precompiler": "*",
         "hbsc": "*",
         "csv" : "*",
-        "http" : "*"
+        "http" : "*",
+        "coffee-resque" : "*"
     }
 }

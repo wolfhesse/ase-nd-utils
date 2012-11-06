@@ -9,9 +9,8 @@ var kitty = new Cat({ name: 'Zildjian' });
 kitty.save(function (err) {
     if (err)
         res.end('meow');
-
+    db.close();
 });
 
 
 console.log('through');
-db.close();
