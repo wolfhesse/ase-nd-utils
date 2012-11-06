@@ -1,4 +1,4 @@
-var fs=require('fs');
+var fs = require('fs');
 var mongoose = require('mongoose');
 var db = mongoose.createConnection('localhost', 'test');
 
@@ -15,15 +15,15 @@ Cat.find(function (err, kittens) {
     else {
         // write kittens to file
 
-        var s = fs.createWriteStream('kittens.csv',{flags:'w'});
+        var s = fs.createWriteStream('kittens.csv', {flags:'w'});
         s.write('name');
         nl(s);
-        kittens.forEach(function(k){
+        kittens.forEach(function(k) {
             s.write(k.name);
             nl(s);
         });
         s.end();
-        s = fs.createWriteStream('kittens.json',{flags:'w'});
+        s = fs.createWriteStream('kittens.json', {flags:'w'});
         s.end(JSON.stringify({'kittens':kittens}));
         console.log('wrote kittens files');
         db.close();
