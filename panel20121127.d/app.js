@@ -2,7 +2,7 @@
 // replace after an hour, goto https://developers.facebook.com/tools/explorer/
 //  .. use https://developers.facebook.com/tools/debug/access_token
 ACCESS_TOKEN = 'AAACEdEose0cBAClvu9zaiXt4FsZCZBEGgDSDn6lZCXNXLNH7q2XG649wyuUjYa8T6DZBpXcuC0BVPVlie9iLyxNzFteF1kmKg8iGRhsuzwZDZD';
-
+LIMIT = 5000;
 
 var fs = require("fs");
 var rest = require("./myrest");
@@ -53,7 +53,7 @@ LineTracker.prototype.track = function bucket(bucket) {
     console.log('bucket with '+bucket.name)
 
     var opt_here = this.options;
-    opt_here.path = '/'+bucket.id+'?fields=id,username&limit=5000' + '&access_token=' + ACCESS_TOKEN;
+    opt_here.path = '/'+bucket.id+'?fields=id,username&limit=' + LIMIT + '&access_token=' + ACCESS_TOKEN;
     var line = bucket.id + " |" + bucket.name;
     rest.getJSON(opt_here,
         function(statusCode, options, result){
@@ -63,7 +63,15 @@ LineTracker.prototype.track = function bucket(bucket) {
                 line += " |" + ( result.username ? result.username : 'none' );
                 line += "\n";
                 console.log("line is: " + line);
-                tracker.emit("line", line);
+                tracker.emit("line", line,
+                    function(){
+                        if(tracker.len == tracker.counter) {
+                            console.log('tracker emits fin');
+                            tracker.emit('fin'); 
+                        } else {
+                            console.log('not last line, yet');
+                        }
+                    });
             } else {
                 console.log("non-200 statusCode: " + statusCode);
             }
@@ -77,7 +85,7 @@ LineTracker.prototype.track = function bucket(bucket) {
 var options = {
     host: 'graph.facebook.com',
     port: 443,
-    path: '/me/friends?fields=id,name&limit=500' + '&access_token=' + ACCESS_TOKEN,
+    path: '/me/friends?fields=id,name&limit=' + LIMIT + '&access_token=' + ACCESS_TOKEN,
     method: 'GET',
     headers: {
      'Content-Type': 'application/json'
@@ -93,16 +101,11 @@ linetracker.on('result', function(result){
 });
 
 
-linetracker.on('line', function(line, is_last) {
+linetracker.on('line', function(line, cbfunc) {
     console.log('on line for record number '+ (++this.counter));
     this.o += line;
 //    console.log('line processed, o is ' + this.o);
-    if(this.len == this.counter) {
-        console.log('tracker emits fin');
-        tracker.emit('fin'); 
-    } else {
-        console.log('not last line, yet');
-    }
+    cbfunc();
 });
 
 linetracker.run().on("fin", function(){

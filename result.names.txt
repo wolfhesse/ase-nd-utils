@@ -2,91 +2,91 @@ id |name |email
 549820319 |Jasper Ben Reichardt |anarchismus
 553369908 |Carina Caferina |carina.caferina
 556383111 |Reza Tavakoli |reza.tavakoli
-844155 |Björn Rabethge |bjoern.rabethge
-522355301 |Romy Grasgruber |grasgruber
 518316742 |Bill Scherk |BillScherk
+844155 |Björn Rabethge |bjoern.rabethge
 537884896 |Linkswende I. S. Austria |Linkswende.IST.Austria
+522355301 |Romy Grasgruber |grasgruber
 576247841 |Manucher Zubin Raschidy |manucher
 583785388 |Cornelia Bosch |cornelia.bosch
 591467778 |Anna Rihl |annarihl
 593088361 |Dominik Leitner |dmnk.ltnr
 597751146 |Richard Pyrker |pyrker
 599928589 |Roger Andel |rogeraaut
-612569712 |Christian Mayr Hofer |phreak20
 619743125 |Jürgen Linder |wriseup
+612569712 |Christian Mayr Hofer |phreak20
 626036461 |Micha Ela |michaela.lenz.31
 622472064 |Claudia Schuster |claudia.schuster.353
-630449655 |Lena Doppel |lena.doppel
 638973027 |Paula Perissinotto |paula.perissinotto
+630449655 |Lena Doppel |lena.doppel
+649234759 |Hans Bernhard |ubermorgen
 645288303 |Samir H. Köck |samir.kock
 659206770 |Michael Eisenriegler |mikeemesser
-649234759 |Hans Bernhard |ubermorgen
 659656339 |Dmytri Kleiner |dmytri.kleiner
-661715632 |Ben Skewes |bskewes
 660306061 |Tom Rom |tomrom24
+661715632 |Ben Skewes |bskewes
 673547949 |David Dempsey |david.dempsey
 678497864 |Walter Palmetshofer |walterpalmetshofer
-684916448 |Sirius Lee |sirius.lee.142
-679221466 |Benjamin Quinn Baczko |benjamin.baczko
-685809099 |Mautz Andrea |mautz.andrea
-686160644 |Alice Alge |alicealge
 685220850 |Gerhard Nakuru |kiembeni
-717807375 |Ritchie Blogfried Pettauer |datadirt
+685809099 |Mautz Andrea |mautz.andrea
+684916448 |Sirius Lee |sirius.lee.142
+686160644 |Alice Alge |alicealge
+679221466 |Benjamin Quinn Baczko |benjamin.baczko
 706319348 |Matthias Cremer |matthias.cremer
-719099065 |Peter Legat |peter.legat
-750763365 |Emanuel Andel |emanuel.andel
+717807375 |Ritchie Blogfried Pettauer |datadirt
 738007051 |David Ellensohn |david.ellensohn
+750763365 |Emanuel Andel |emanuel.andel
+719099065 |Peter Legat |peter.legat
 752453454 |David Trattnig |david.trattnig
 754353447 |Pia Kana |pia.kana.3
-754715605 |Gegi Leben |gegi.leben
 759147961 |Selina de Beauclair |sdebeauclair
+754715605 |Gegi Leben |gegi.leben
 761656239 |Peter Scharmüller |scharmueller
-771745768 |Martin Leyrer |leyrer
 777629551 |Elgeko Gerhard Kohlmaier |ELGEKO
+771745768 |Martin Leyrer |leyrer
 788638840 |Agnes Hunyadi |agnes.hunyadi
-804919250 |Smári McCarthy |smarimc
 838488846 |Gregor Sch |GregorSchamschula
+804919250 |Smári McCarthy |smarimc
 855264885 |Ich Bin Ich |ich.b.ich.9
-856444390 |Teresa von Maur |teresa.von.maur
 897620194 |Jan Greifenstein |jan.greifenstein
+856444390 |Teresa von Maur |teresa.von.maur
 1007440996 |Karl Stirner |karl.stirner
 1018076687 |Scoddy Flippin |scoddy.flippin
 1019211517 |Fefe Talavera |fefe.talavera
-1027083374 |Basti Masti |basti.masti.7
 1021846855 |Harri Stojka |harri.stojka
+1027083374 |Basti Masti |basti.masti.7
 1030635546 |Bernhard Amann |bernhard.amann.9
 1033931021 |Noizedirector Martin Braun |noizedirector
 1043268447 |Wolfgang Niederwanger |wolfgang.niederwanger
 1052114955 |Blanka Modestus |blanka.modestus
-1058225383 |Manfred Domschitz |manfred.domschitz
 1064051316 |Hans Christian Voigt |kellerabteil
+1058225383 |Manfred Domschitz |manfred.domschitz
 1064757577 |Klára Beneš |klara.benes
 1066642154 |Herman Funkhouser |herman.funkhouser
 1067810701 |Vj Azz |vj.azz.vj.azz
 1079333109 |Andreas Göltl |andreas.astronaut
 1094860173 |Gerald Haiden |ghaiden
 1105200312 |Clemens Czurda |clemens.czurda
-1111062970 |Adam Stephen X |GodlyWadley
 1128652222 |Sobul Dobul Frotting |roetting
+1111062970 |Adam Stephen X |GodlyWadley
 1129873577 |Eva Jantschitsch |eva.jantschitsch
 1133073245 |Stefan Tragfeith |marius.miller
 1137071266 |Rafael Westenberger |rafwes
 1137593743 |Felix Glück |felix.gluck.98
 1142638804 |Christoph Baumgarten |christoph.baumgarten
 1144117380 |Nicola Gold |NicolaWortfachgeschaeft
-1145055690 |Aida Industriemüll |radikalerKonstruktivist
 1145134935 |Edith Neubauer |edith.neubauer.7
+1145055690 |Aida Industriemüll |radikalerKonstruktivist
 1147836584 |Mina Djelani |mina.djelani
 1152353878 |Mieze Medusa |mieze.medusa.9
 1154791271 |Sebastian Kugler |sebastian.kugler1992
 1158392267 |Georg Schutz |georg.schuetz
-1168756605 |Thomas Fellinger |t.fellinger
 1160315809 |Jolanta Warpechowski |jolanta.warpechowski
+1168756605 |Thomas Fellinger |t.fellinger
 1175670282 |Daniel Weber |danielweber.at
 1176846588 |Veronika Bökelmann |veronika.boekelmann
 1197491062 |Ekke Weis |ekke.weis
-1203135513 |Heinrich Andree-Claudius von Kauts |heinrich.vonkauts
 1201164594 |Barbara Walenta |barbara.walenta.31
+1203135513 |Heinrich Andree-Claudius von Kauts |heinrich.vonkauts
 1213881067 |Zart Strom |zartStrom
 1216644066 |Charlie Bader |charlie.bader
 1221560537 |Jules N'Gal |entfernerband
@@ -96,8 +96,8 @@ id |name |email
 1240722344 |Wolf-Goetz Jurjans |wolfgoetz.jurjans
 1240921638 |Bernhard Jenny |bernhardjenny
 1241763514 |Johannes Ruland |johannes.ruland
-1272203220 |Kaja Stech |kaja.stech.7
 1256861267 |Silvia Fischer |silvia.fischer.77
+1272203220 |Kaja Stech |kaja.stech.7
 1281408027 |Platoon Cultural-Development |CrackingTheCity
 1286154129 |Erwin Plakolb |erwin.plakolb
 1294959997 |Philipp Sonderegger |philipp.sonderegger
@@ -106,10 +106,10 @@ id |name |email
 1325304817 |Soundsthatmatter Station |soundsthatmatters
 1333627083 |Thomas Gebel |thomas.gebel
 1335766919 |Jakob Arnim-Ellissen |jakob.arnim
-1344523194 |Moritz Baier |moriz.baier
 1343025373 |Felix Hnat |felixhnat
-1345959640 |Hari Partaj |hari.partaj
+1344523194 |Moritz Baier |moriz.baier
 1348693985 |Alexander Parschalk |alexander.parschalk
+1345959640 |Hari Partaj |hari.partaj
 1352246208 |Christian Kpunkt |christian.kpunkt
 1360339613 |Grünalternative Jugend Wien |gruenalternativejugendwien
 1360447337 |Marie Theres Stickler |marie.stickler
@@ -130,44 +130,44 @@ id |name |email
 1483757015 |Martin Zenker |martin.zenker.79
 1504643718 |Iris Siri |suksibi
 1505119405 |Walther Soyka |walther.soyka
-1506656010 |Robert Reinagl |robert.reinagl
 1506181073 |Elina Toumbaleva |elina.toumbaleva
+1506656010 |Robert Reinagl |robert.reinagl
+1510525011 |Irina Ulrike Andel |irina.andel
 1512949487 |Jasmin Fotouri |jasmin.fotouri
 1515354973 |Niko Andel |niko.andel
-1510525011 |Irina Ulrike Andel |irina.andel
 1516752309 |Sabine War |sa.bine.33046736
 1519838785 |Tom Schaffer |TomSchaffer
 1523170853 |Günter Griesser |naturfreunde.vorarlberg
 1524638769 |Haralambos Vlachoutsikos |haralambos.vlachoutsikos
 1530543353 |Mukadder Bauer |mukadder.bauer
-1537588014 |Florin B. Buttinger |florinbb
 1531044894 |Adolf Andel |adolf.andel
+1537588014 |Florin B. Buttinger |florinbb
 1542639367 |Doris Kittler |doris.kittler
-1567502601 |Gerhard Dusek |gerhard.dusek
 1586902783 |Soheyl Liwani |soheyl.liwani
+1567502601 |Gerhard Dusek |gerhard.dusek
 1586922217 |Barbara Maier |barbara.maier.313
 1598563517 |Marjan Gregor Ogris |marjan.ogris
-1623523218 |Intherapie Suedhang |suedhang.intherapie
 1598657750 |Ton Roth |ton.roth.3
+1623523218 |Intherapie Suedhang |suedhang.intherapie
 1648732101 |Martin Margulies |martin.margulies.3
 1673335912 |Isa Kurznämlich Lang |isa.lang.501
 1708137859 |Andreas Schmidt |andreas.schmidt.7967
 1713441164 |Dany Ristl |dany.ristl.3
 1730275232 |Sibylle Solange |sibylle.solange
 1735947550 |Bagru Powi |bagru.powi
-1768253568 |Walter Klement |wirbringens.at.Walter
 1794161806 |Tüwi Kultur |tuewikultur
+1768253568 |Walter Klement |wirbringens.at.Walter
 1803061763 |Ksv LiLi |ksv.lili
 1806586409 |Mario Czerny |mario.czerny.3
 1825994819 |Zehn Linien |zehn.denardi
 1846076123 |Werner Reisinger |wernerreisinger
-1828336966 |Sabine Klement |sabine.klement.1
 100000000111249 |Cosmic SpaceDisco |cosmic.spacedisco
+1828336966 |Sabine Klement |sabine.klement.1
 100000002642723 |Art Notes |art.notes
 100000002700788 |Verbrecher Verlag |verbrecher.verlag
 100000014913645 |Theresia Masching |theresia.masching
-100000040045221 |Jean Étécoffre |xjpvx
 100000040983141 |Emanzipatorische Bildung |emanzipatorische.bildung
+100000040045221 |Jean Étécoffre |xjpvx
 100000040984094 |Politspiegel At |politspiegel.at
 100000057766370 |Malte Fiala |malte.fiala
 100000063474296 |Lisa Köppl |lisa.koppl.9
@@ -183,15 +183,15 @@ id |name |email
 100000163875606 |Georg Garstenauer |georg.garstenauer
 100000180875403 |Gerhard Lichtenauer |gerhard.lichtenauer
 100000186540502 |Sigi Maron |sigi.maron
-100000200700220 |Alegre Correa |alegre.correa
 100000226468718 |Thefight Theaterstellwerk |thefight.theaterstellwerk
+100000200700220 |Alegre Correa |alegre.correa
 100000239363687 |George Jiri Ksandr |georgejiri.ksandr
 100000283200351 |Sozialdemokratische Partei Kanton Zürich |sozialdemokratischepartei.kantonzurich
+100000336121537 |Barbara Schmatz |barbara.schmatz
 100000319359504 |Britta Mallinger |none
 100000363377190 |Collada Duck |collada.collada
-100000336121537 |Barbara Schmatz |barbara.schmatz
-100000371437587 |Elfriede Nehls |elfriede.nehls
 100000386511235 |Michael Jablonski |baron.von.counterculture
+100000371437587 |Elfriede Nehls |elfriede.nehls
 100000405879503 |Mary Newheart |mary.newheart
 100000408643321 |Arbeitsgruppe Boku |bokubrennt
 100000412398046 |FreeCaucasus On East |FREECAUCASUS
@@ -199,40 +199,40 @@ id |name |email
 100000431260341 |Ingo Tisch |infotisch
 100000431445327 |Tu Wien Brennt |tuwien.brennt
 100000452585101 |Finnegan Henschel |finnegan.henschel
-100000458711809 |Agru Unibrennt |agru.unibrennt
 100000456377991 |Freedum Marburg |freedumm
+100000458711809 |Agru Unibrennt |agru.unibrennt
 100000468566983 |Neue Medien |neue.medien.98
 100000471241538 |Unsereuni Basel |unsereuni.basel
 100000474170583 |Kunstund Kommunikation |Kunst.und.Kommunikation
-100000488782139 |Robert Hobek |robert.hobek
 100000494427039 |Christoph Hubatschke |christoph.hubatschke
-100000496898611 |Fu BrenntPresse |fu.brenntpresse
+100000488782139 |Robert Hobek |robert.hobek
 100000495043927 |Robert Müllner |robert.muellner57
+100000496898611 |Fu BrenntPresse |fu.brenntpresse
 100000499554759 |Sonja Grusch |sonja.grusch
 100000509500136 |Oliver Peschel |oliver.peschel.9
 100000529614427 |Enrigo Zapata |enrigo.zapata
-100000547334383 |Mario Becksteiner |mario.becksteiner
 100000543816507 |Max Audi |max.audi
+100000547334383 |Mario Becksteiner |mario.becksteiner
 100000571360018 |Zivil Gesellschaft |zivil.gesellschaft.1
 100000576009576 |Sepp Eisenriegler |sepp.eisenriegler.1
 100000584954895 |Bayreuth Brennt |bayreuth.brennt
 100000598570295 |Karin Marhold |karin.marhold
 100000618482454 |Kö Günther |guekoe
 100000633756947 |Deer Superbertram |superbertram
-100000641773789 |Yvy Sieben |yvy.sieben
 100000634935891 |Fyre Fly |fyre.fly.79
+100000641773789 |Yvy Sieben |yvy.sieben
 100000649496073 |Società Wissenschaft |societa.wissenschaft
 100000660853350 |Ögj Kärnten |oegj.ktn
 100000668262904 |Para Noid |zua.rah23
-100000690975718 |Studenten Actie Comité Utrecht |studentenactiecomite.utrecht
 100000682015829 |Zdenko Adi Frankovic |zdenko.frankovic
+100000690975718 |Studenten Actie Comité Utrecht |studentenactiecomite.utrecht
 100000698555245 |Lexi Vieropscy |wirobski
 100000703128920 |Ag Kreative Aktionen |ag.kreativeaktionen
 100000704652423 |Hannah Gellner |hannah.gellner
 100000707400045 |Elke Hietl |tierhilfe.elkehietl
 100000709757186 |Karl Maria Schönswetter-Sulzer |schoenswettersulzer
-100000726626980 |Antirep Presse |antirep2008
 100000730713353 |Agru Pharmazie Wien |agrupharmazie
+100000726626980 |Antirep Presse |antirep2008
 100000737498922 |Direkthilfe Roma |direkthilfe.roma
 100000744841709 |TheaterPhönix Linz |theaterphonix.linz
 100000759829890 |Aktive Arbeitslose |aktivearbeitslose
@@ -240,15 +240,15 @@ id |name |email
 100000763721999 |Augustin Boulevardzeitung |augustin.boulevardzeitung
 100000802401150 |Mili Benes |mili.benes
 100000818374618 |Matthias Hengl |matthias.hengl
-100000837053684 |Ronald Schügerl |ronschue
 100000848618167 |Michael Cadje |phr3ka
+100000837053684 |Ronald Schügerl |ronschue
 100000851621994 |Manuela Bauer |manuela.bauer.3720
 100000868647842 |Marius Constantin Nicolescu |m.c.nicolescu
 100000879516585 |Bologna Burns |bologna.burns
 100000895936594 |Bagru Soziologie |bagru.soziologie
 100000914940968 |Frauenberatung Perg |frauenberatung.perg
-100000931525429 |Unsereuni Wien |unsereuni.wien
 100000943322540 |TwilightParty July |twilightparty.july
+100000931525429 |Unsereuni Wien |unsereuni.wien
 100000965659210 |Benno Sorg |benno.sorg
 100000998660046 |Franko Petri |frankopetri
 100001010844736 |Kulturzentrum Spittelberg Amerlinghaus |kulturzentrumspittelberg.amerlinghaus
@@ -257,19 +257,19 @@ id |name |email
 100001032701084 |Befreite Aula |befreite.aula
 100001071841920 |Sozialistische Jugend Floridsdorf |sozialistischejugend.floridsdorf
 100001073370745 |Sozialistische Weltrevolution |sozialistische.weltrevolution
-100001086044811 |Art Channel |artchannel.info
 100001106690579 |Heinz Starchl |VORarlbergWAERTS
+100001086044811 |Art Channel |artchannel.info
 100001119332795 |Ag Doku |ag.doku
 100001125936905 |Max Hofer |max.hofer.167
-100001272136511 |Linkes Hochschulnetz |linkes.hochschulnetz
 100001191137802 |Martina Wurzer |martina.wurzer.75
-100001284179241 |TheFree Mikegilli |thefree.mikegilli
+100001272136511 |Linkes Hochschulnetz |linkes.hochschulnetz
 100001320978380 |Alexander Winkler |alexander.winkler.90
+100001284179241 |TheFree Mikegilli |thefree.mikegilli
 100001332836270 |PolDi Drache |poldi.drache
 100001334018510 |Gegen Rechts |gegen.rechts
 100001345431224 |Samuel Edelstein |samuel.edelstein.3
-100001359270618 |Teco Nomix |teconomix
 100001385832769 |Tagrtv Digitalmedia |tagrtv.digitalmedia
+100001359270618 |Teco Nomix |teconomix
 100001413912169 |Eva Strassegger |eva.strassegger.3
 100001437769221 |Nikolaus Kunrath |niki.kunrath
 100001440718967 |Fernseher Kaputt |fernseher.kaputt
@@ -285,31 +285,31 @@ id |name |email
 100001618583800 |San Precario |prekaercafe
 100001639000993 |SAgd Photo-Video |sagd.doku
 100001649492044 |Gerhard Kettler |gerhard.kettler
-100001680423150 |Theatervirulent Linz |theatervirulent.linz
 100001655434732 |Siebenundsiebzig Stg |siebenundsiebzig.stg
+100001680423150 |Theatervirulent Linz |theatervirulent.linz
 100001774866056 |Johann Höllisch |johann.hollisch
 100001775485871 |Alžběta Dieselova |alzbeta.dieselova
 100001776300673 |Norbert K Hund |KunnstBiotop
 100001777020168 |Sandra Meyer |sandra.meyer.12720
 100001785948805 |Junge Kunst Wien |junge.kunstwien
-100001789689950 |A Angie Sam |aangie.sam
 100001809022698 |Fabian Unterberger |fabian.unterberger
+100001789689950 |A Angie Sam |aangie.sam
 100001892153326 |Zwangsgetrennte Binationale Paare |zwangsgetrennte.paare
 100001892896138 |Tea Edukators Twopoint-Zero |theEdukators2.0
 100001956526526 |Diejudith Villa Vallet |diejudith.villavallet
 100002020585957 |Thomas Da |th0da
-100002112244479 |Lorien Pratt |lorien.pratt
 100002062697909 |Ferien Wg London Spaßgesellschaft |farin.wgreiserocker
+100002112244479 |Lorien Pratt |lorien.pratt
 100002168330409 |Gerit Heller |gerit.heller
 100002390094968 |Melchior-Christoph von Brincken |melchiorchristoph.vonbrincken
 100002402800776 |Directorhenry Needypeople |directorhenryforneedypeople
-100002408760006 |Institutsgruppe Philosophie |institutsgruppe.philosophie
 100002455384914 |Gerald Steininger |gerald.steininger.1
+100002408760006 |Institutsgruppe Philosophie |institutsgruppe.philosophie
 100002545990999 |No Pnr |no.pnr
 100002598017790 |Andreas Muk Haider |andreas.m.haider
 100003060105079 |Freie Universität Wien |freieuniversitat.wien
-100003132873604 |Chris Derringer |chris.derringer.3
 100003579235833 |Bettina Steininger |bettina.steininger.7
-100003848196566 |Frons-Liber Occiditplenuscrudelitate |fronsliber.occiditplenuscrudelitate
+100003132873604 |Chris Derringer |chris.derringer.3
 100003668511800 |Anne Katrin Hidde |annekatrin.hidde.7
+100003848196566 |Frons-Liber Occiditplenuscrudelitate |fronsliber.occiditplenuscrudelitate
 100004301888031 |Venomenal Propstarr |venomenal.propstarr
