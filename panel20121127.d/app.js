@@ -97,7 +97,7 @@ var linetracker = new LineTracker(options);
 
 linetracker.on('result', function(result){
     console.log('on result for '+ this.len + ' records');
-    fs.writeFile('./result.json', JSON.stringify(result), function(err){});
+    fs.writeFile('./data.d/result.json', JSON.stringify(result), function(err){});
 });
 
 
@@ -110,5 +110,16 @@ linetracker.on('line', function(line, cbfunc) {
 
 linetracker.run().on("fin", function(){
     console.log('on fin');
-    fs.writeFile('./result.names.txt',this.o, function(err){});
+    fs.writeFile('./data.d/result.names.txt',this.o, function(err){});
+})
+
+
+/* lesson learnt
+    use fugue to run you app code - in production environment, b/c of tcp linger
+    https://github.com/pgte/fugue
+*/
+// std block abend protection
+process.on("uncaughtException", function(err){
+    console.warn("caught unhandled exception: ")
+    console.warn(err.stack || err)
 })
