@@ -1,7 +1,7 @@
 
 // replace after an hour, goto https://developers.facebook.com/tools/explorer/
 //  .. use https://developers.facebook.com/tools/debug/access_token
-ACCESS_TOKEN = 'AAACEdEose0cBAClvu9zaiXt4FsZCZBEGgDSDn6lZCXNXLNH7q2XG649wyuUjYa8T6DZBpXcuC0BVPVlie9iLyxNzFteF1kmKg8iGRhsuzwZDZD';
+ACCESS_TOKEN = 'AAACEdEose0cBAKYrhGspau8pr1sVbA6DV7NTKVtoLqBagaBEwU7nKvClEOmcld4K5buUZCJXhwLRUnfqPBzFP4Xa3tgk3ZBUZC3hsZChpQZDZD';
 LIMIT = 5000;
 
 var fs = require("fs");
@@ -11,7 +11,7 @@ var EventEmitter = require('events').EventEmitter;
 
 var LineTracker = exports.LineTracker = function(options) {
     this.options = options;
-    this.o = 'id |name |email' + "\n"
+    this.o = 'id |name |username' + "\n"
 }
 
 LineTracker.prototype = new EventEmitter;
@@ -25,11 +25,8 @@ LineTracker.prototype.run = function() {
             //console.log("onResult: (" + statusCode + ")" + JSON.stringify(result));
             if(200 == statusCode) {
 
-                // write to file
-
-                tracker.len = result.data.length;
                 tracker.emit('result',result);
-                tracker.counter = 0;
+                tracker.counter = result.data.length;
                 result.data.forEach(function(bucket){
                     console.log('calling track for bucket: ' + bucket.name);
                     tracker.track(bucket);
@@ -65,7 +62,7 @@ LineTracker.prototype.track = function bucket(bucket) {
                 console.log("line is: " + line);
                 tracker.emit("line", line,
                     function(){
-                        if(tracker.len == tracker.counter) {
+                        if(--tracker.counter -1) {
                             console.log('tracker emits fin');
                             tracker.emit('fin'); 
                         } else {
@@ -102,7 +99,7 @@ linetracker.on('result', function(result){
 
 
 linetracker.on('line', function(line, cbfunc) {
-    console.log('on line for record number '+ (++this.counter));
+    console.log('records left: '+ (this.counter));
     this.o += line;
 //    console.log('line processed, o is ' + this.o);
     cbfunc();
