@@ -1,100 +1,111 @@
-console.log ('ho');
 
 // replace after an hour, goto https://developers.facebook.com/tools/explorer/
 //  .. use https://developers.facebook.com/tools/debug/access_token
-var access_token = 'AAACEdEose0cBACA89a4QYkLG7kk2kR9xMod58EfoCOas7LcqyOYlppVVbViK4wFrDJHHmQ1QXJLNZAgVz4apdTUC4FIPlmGS0xlApcQZDZD';
+ACCESS_TOKEN = 'AAACEdEose0cBAClvu9zaiXt4FsZCZBEGgDSDn6lZCXNXLNH7q2XG649wyuUjYa8T6DZBpXcuC0BVPVlie9iLyxNzFteF1kmKg8iGRhsuzwZDZD';
 
-var graph_url = "https://graph.facebook.com/me/friends?fields=id,name,link"
 
 var fs = require("fs");
-var http = require("http");
-var https = require("https");
+var rest = require("./myrest");
+var EventEmitter = require('events').EventEmitter;
 
-/**
- * getJSON:  REST get request returning JSON object(s)
- * @param options: http options object
- * @param callback: callback to pass the results JSON object(s) back
- */
 
-// exports.getJSON = function(options, onResult)
-getJSON = function(options, onResult)
-{
-    console.log("rest::getJSON");
+var LineTracker = exports.LineTracker = function(options) {
+    this.options = options;
+    this.o = 'id |name |email' + "\n"
+}
 
-    var prot = options.port == 443 ? https : http;
-    var req = prot.request(options, function(res)
-    {
-        var output = '';
-        console.log(options.host + ':' + res.statusCode);
-        res.setEncoding('utf8');
+LineTracker.prototype = new EventEmitter;
 
-        res.on('data', function (chunk) {
-            output += chunk;
+LineTracker.prototype.run = function() {
+    tracker = this;
+    rest.getJSON(options,
+        function(statusCode, options, result) /* onResult */
+        {
+            // I could work with the result html/json here.  I could also just return it
+            //console.log("onResult: (" + statusCode + ")" + JSON.stringify(result));
+            if(200 == statusCode) {
+
+                // write to file
+
+                tracker.len = result.data.length;
+                tracker.emit('result',result);
+                tracker.counter = 0;
+                result.data.forEach(function(bucket){
+                    console.log('calling track for bucket: ' + bucket.name);
+                    tracker.track(bucket);
+                });
+            
+
+            } else {
+                console.log("non-200 statusCode: " + statusCode)
+
+            }
+
+
         });
 
-        res.on('end', function() {
-            var obj = JSON.parse(output);
-            onResult(res.statusCode, obj);
+    return this;   
+}
+
+LineTracker.prototype.track = function bucket(bucket) {
+
+    tracker = this;
+    console.log('bucket with '+bucket.name)
+
+    var opt_here = this.options;
+    opt_here.path = '/'+bucket.id+'?fields=id,username&limit=5000' + '&access_token=' + ACCESS_TOKEN;
+    var line = bucket.id + " |" + bucket.name;
+    rest.getJSON(opt_here,
+        function(statusCode, options, result){
+            console.log("statusCode for "+ bucket.id+" was "+statusCode);
+            if(200 == statusCode) {
+                console.log(JSON.stringify(result));
+                line += " |" + ( result.username ? result.username : 'none' );
+                line += "\n";
+                console.log("line is: " + line);
+                tracker.emit("line", line);
+            } else {
+                console.log("non-200 statusCode: " + statusCode);
+            }
         });
-    });
+    return this;
+}
 
-    req.on('error', function(err) {
-        //res.send('error: ' + err.message);
-    });
 
-    req.end();
-};
-	
-
+// ============
 
 var options = {
     host: 'graph.facebook.com',
     port: 443,
-    path: '/me/friends?fields=id,name,email&limit=5000' + '&access_token=' + access_token,
+    path: '/me/friends?fields=id,name&limit=500' + '&access_token=' + ACCESS_TOKEN,
     method: 'GET',
     headers: {
- 	   'Content-Type': 'application/json'
-	}
+     'Content-Type': 'application/json'
+ }
 };
 
-//rest.
-getJSON(options,
-        function(statusCode, result)
-        {
-            // I could work with the result html/json here.  I could also just return it
-            //console.log("onResult: (" + statusCode + ")" + JSON.stringify(result));
+var linetracker = new LineTracker(options);
 
-            // write to file
-            fs.writeFile('./result.json', JSON.stringify(result), function(err){});
 
-            o = 'id|name' + "\n"
-            result.data.forEach(function(bucket){
-            	console.log(bucket.name);
-            	o += bucket.id + "|" + bucket.name + "|" + bucket.link + 
-            		"\n";
-            });
-            // console.log(result.data[1]);
+linetracker.on('result', function(result){
+    console.log('on result for '+ this.len + ' records');
+    fs.writeFile('./result.json', JSON.stringify(result), function(err){});
+});
 
-            fs.writeFile('./result.names.txt',o, function(err){});
-////            res.statusCode = statusCode;
-////            res.send(result);
-        });
 
-//  var req = http.get(options, function(res) {
-  //   var pageData = "";
-  //   res.setEncoding('utf8');
-  //   res.on('data', function (chunk) {
-  //     pageData += chunk;
-  //   });
+linetracker.on('line', function(line, is_last) {
+    console.log('on line for record number '+ (++this.counter));
+    this.o += line;
+//    console.log('line processed, o is ' + this.o);
+    if(this.len == this.counter) {
+        console.log('tracker emits fin');
+        tracker.emit('fin'); 
+    } else {
+        console.log('not last line, yet');
+    }
+});
 
-  //   res.on('end', function(){
-  //     response.send(pageData)
-  //   });
-  // });
-
-// write to json file
-
-// interface
-// impl
-// testing
-
+linetracker.run().on("fin", function(){
+    console.log('on fin');
+    fs.writeFile('./result.names.txt',this.o, function(err){});
+})
