@@ -1,6 +1,6 @@
 var fs = require('fs');
 var mongoose = require('mongoose');
-var db = mongoose.createConnection('localhost', 'test');
+var db = mongoose.createConnection('10.0.0.13', 'test');
 
 var schema = mongoose.Schema({ name: 'string' });
 var Cat = db.model('Cat', schema);
