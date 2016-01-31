@@ -1,8 +1,9 @@
 var mongoose = require('mongoose');
-var db = mongoose.createConnection('10.0.0.13', 'test');
+var config = require('../config');
+var db = mongoose.createConnection(config.mongo.development.host, config.mongo.development.db);
 
-var schema = mongoose.Schema({name: 'string', age: 'number', comment: 'string'});
-var Cat = db.model('Cat', schema);
+var schemaDefinitions = require('../data.d/schemaDefinitions');
+var Cat = db.model('Cat', mongoose.Schema(schemaDefinitions.schema_cat_1));
 
 var kitty = new Cat({name: 'Zildjian @ ' + new Date, age: 12, comment: 'built w/ create-cat script'});
 

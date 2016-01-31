@@ -9,7 +9,6 @@ Cat.find({name: 'Zildjian' }, function(err, kittens) {
         console.log(err);
     }
     else {
-
         kitty = kittens[0];
         kitty.name = 'Renamed';
         console.log(kitty);
@@ -19,11 +18,8 @@ Cat.find({name: 'Zildjian' }, function(err, kittens) {
             db.close();
             console.log(kitty);
         });
-
         console.log('through');
-
     }
-
 });
 
 
