@@ -82,6 +82,13 @@
       "_id": "56ae3ebda9536e0c024ca669",
       "name": "Zildjian@Sun Jan 31 2016 18:05:01 GMT+0100 (W. Europe Standard Time)",
       "__v": 0
+    },
+    {
+      "_id": "56ae3f7cc8693dcc225e5bbf",
+      "name": "Zildjian@Sun Jan 31 2016 18:08:12 GMT+0100 (W. Europe Standard Time)",
+      "age": 12,
+      "comment": "built w/ create-cat script",
+      "__v": 0
     }
   ]
 }
