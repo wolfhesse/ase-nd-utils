@@ -1,3 +1,11 @@
+Version 0.3.0:
+ - buchhaltung
+ - Merge branch 'develop' of github.com:wolfhesse/nodetests into develop
+ - cat create :lesbarkeit
+ - cat create :lesbarkeit
+ - Merge tag '0.2.0' into develop
+ - Merge branch 'r-0.2.0'
+
 Version 0.2.0:
  - buchhaltung
  - Merge remote-tracking branch 'origin/develop' into develop
