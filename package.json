@@ -1,24 +1,25 @@
 {
-    "name": "nodetests",
-    "version": "0.0.1",
-    "private": true,
-    "scripts": {
-        "start": "node r20121106"
-    },
-    "dependencies": {
-        "express": "*",
-        "jade": "*",
-        "kerberos": "*",
-        "mongoose": "*",
-        "stylus": "~0.29.0",
-        "nib": "~0.7.0",
-        "underscore": "*",
-        "compact": "*",
-        "connect-handlebars": "*",
-        "handlebars-precompiler": "*",
-        "hbsc": "*",
-        "csv" : "*",
-        "http" : "*",
-        "coffee-resque" : "*"
-    }
+  "name": "nodetests",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node r20121106"
+  },
+  "dependencies": {
+    "express": "*",
+    "errorhandler": "*",
+    "jade": "*",
+    "kerberos": "*",
+    "mongoose": "*",
+    "stylus": "~0.29.0",
+    "nib": "~0.7.0",
+    "underscore": "*",
+    "compact": "*",
+    "connect-handlebars": "*",
+    "handlebars-precompiler": "*",
+    "hbsc": "*",
+    "csv": "*",
+    "http": "*",
+    "coffee-resque": "*"
+  }
 }
