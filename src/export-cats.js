@@ -1,13 +1,17 @@
 var fs = require('fs');
 var mongoose = require('mongoose');
-var db = mongoose.createConnection('10.0.0.13', 'test');
 
-var schema = mongoose.Schema({ name: 'string' });
+var config = require('../config');
+var db = mongoose.createConnection(config.mongo.development.host, config.mongo.development.db);
+
+var schemaCat = require('../data.d/schemaDefinitions').schema_cat_0.schemaCatDefinition;
+var schema = mongoose.Schema(schemaCat);
 var Cat = db.model('Cat', schema);
 
 nl = function (s) {
     s.write("\n");
-}
+};
+
 Cat.find(function (err, kittens) {
     if (err) {
         console.log(err)
@@ -15,16 +19,16 @@ Cat.find(function (err, kittens) {
     else {
         // write kittens to file
 
-        var s = fs.createWriteStream('kittens.csv', {flags:'w'});
+        var s = fs.createWriteStream('kittens.csv', {flags: 'w'});
         s.write('name');
         nl(s);
-        kittens.forEach(function(k) {
+        kittens.forEach(function (k) {
             s.write(k.name);
             nl(s);
         });
         s.end();
-        s = fs.createWriteStream('kittens.json', {flags:'w'});
-        s.end(JSON.stringify({'kittens':kittens}));
+        s = fs.createWriteStream('kittens.json', {flags: 'w'});
+        s.end(JSON.stringify({'kittens': kittens}));
         console.log('wrote kittens files');
         db.close();
     }
