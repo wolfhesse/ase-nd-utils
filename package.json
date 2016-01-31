@@ -8,6 +8,7 @@
     "dependencies": {
         "express": "*",
         "jade": "*",
+        "kerberos": "*",
         "mongoose": "*",
         "stylus": "~0.29.0",
         "nib": "~0.7.0",
