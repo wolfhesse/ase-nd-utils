@@ -4,8 +4,7 @@ var mongoose = require('mongoose');
 var config = require('../config');
 var db = mongoose.createConnection(config.mongo.development.host, config.mongo.development.db);
 
-var schemaCat = require('../data.d/schemaDefinitions').schema_cat_0.schemaCatDefinition;
-var schema = mongoose.Schema(schemaCat);
+var schema = mongoose.Schema(config.schemaDefinitions.schema_cat_0.schemaCatDefinition);
 var Cat = db.model('Cat', schema);
 
 nl = function (s) {
