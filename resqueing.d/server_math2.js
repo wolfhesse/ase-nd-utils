@@ -1,18 +1,19 @@
 var redisHost = '10.0.0.13'
 var redisPort = '6379'
 
+var jobnumber=0;
+
 // implement your job functions.
 var myJobs = {
     add: function (a, b, callback) {
+        //console.log(this);
+        jobnumber += 1;
         console.log("//myJobs.add: server_math got called with a, b =(" + a + ", " + b + ")");
+        console.log("//myJobs.add: jobnumber is " + jobnumber);
         var res = a + b;
-        console.log("//myJobs.add: calling back callback: " + callback);
+        if (res == 3)
+            console.log("//myJobs.add: calling back callback: " + callback);
         callback(res);
-    },
-    nulbody: function(callback){
-        console.log("//myJobs.nulbody: w/o args: ");
-        console.log("//myJobs.nulbody: calling back callback: " + callback);
-        callback("nulbody finished");
     },
     //succeed: function (arg, callback) {
     //    console.log("//myJobs.succeed");
@@ -20,20 +21,20 @@ var myJobs = {
     //    console.log("//     with callback: " + callback);
     //    callback();
     //},
-    //fail: function (arg, callback) {
-    //    console.log("//myJobs.fail");
-    //    callback(new Error('fail'));
-    //},
-    //doneWorking: function() {
-    //    console.log("//myJobs.doneWorking");
-    //}
+    fail: function (arg, callback) {
+        console.log("//myJobs.fail");
+        callback(new Error('fail'));
+    },
+    doneWorking: function () {
+        console.log("//myJobs.doneWorking");
+    }
 }
 
 // setup a worker
 var worker = require('coffee-resque').connect({
     host: redisHost,
     port: redisPort
-}).worker('math', myJobs)
+}).worker('math2', myJobs)
 
 // some global event listeners
 //
@@ -53,25 +54,19 @@ worker.on('job', function (worker, queue, job) {
 
 // Triggered every time a Job errors.
 worker.on('error', function (err, worker, queue, job) {
-    console.log('-- err '+err);
-    console.log('--   job: ' + JSON.stringify(job));
-    console.log('--   queue: ' + queue);
+    console.log('err ' + JSON.stringify(job));
+    console.log('in queue ' + queue);
 })
 
 // Triggered on every successful Job run.
 worker.on('success', function (worker, queue, job, result) {
-    console.log('== worker/event: success: ' + JSON.stringify(job));
-    console.log('==               in queue: ' + queue);
-    console.log('==               result is: ' + result);
-    //if(job.class != 'nulbody') {
-    //    console.log('==               result is ' + result);
-    //} else {
-    //    console.log('==               nulbody result empty.');
-    //}
-});
+    console.log('== worker/event: success ' + JSON.stringify(job));
+    console.log('==               in queue ' + queue);
+    console.log('==               result is ' + result);
+})
 
 //worker.on('doneWorking', function(worker, queue, job){
 //    console.log('== worker/event: doneWorking');
 //});
-worker.start();
+worker.start()
 console.log("worker started...");
