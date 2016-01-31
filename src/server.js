@@ -1,3 +1,11 @@
+// start-with: npm run-script start
+
+var bunyan = require('bunyan');
+var log = bunyan.createLogger({
+    name: 'server',
+    // ...
+});
+
 var express = require('express');
 var errorHandler = require('errorhandler');
 
@@ -21,8 +29,9 @@ if ('production' == env) {
 
 
 app.get('/', function (req, res) {
+    log.info({req: req}, 'received request');
     res.contentType('text/javascript');
-    f = fs.readFile('kittens.json', 'utf8', function (err, data) {
+    f = fs.readFile('./src/kittens.json', 'utf8', function (err, data) {
         if (err) { // TODO handle that
         }
         res.send(data);
@@ -33,7 +42,7 @@ app.get('/', function (req, res) {
 
 app.get('/kittens.csv', function (req, res) {
     res.contentType('text/csv');
-    f = fs.readFile('kittens.csv', 'utf8', function (err, data) {
+    f = fs.readFile('./src/kittens.csv', 'utf8', function (err, data) {
         if (err) {
             // TODO handle that
         }

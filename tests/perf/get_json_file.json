@@ -1,0 +1,30 @@
+{
+  "config": {
+    "target": "http://localhost:32000",
+    "phases": [
+      {
+        "duration": 20,
+        "arrivalRate": 5,
+        "name": "Warm-up"
+      },
+      {
+        "pause": 2
+      },
+      {
+        "duration": 30,
+        "arrivalCount": 30
+      },
+      {
+        "duration": 60,
+        "arrivalRate": 50,
+        "name": "High load phase"
+      }
+    ]
+  },
+  "scenarios": [
+    // scenario definitions
+    {
+      "get": "/"
+    }
+  ]
+}

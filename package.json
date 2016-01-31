@@ -1,11 +1,16 @@
 {
-  "name": "nodetests",
-  "version": "0.0.1",
+  "name": "ase-nd-utils",
+  "version": "0.3.1",
   "private": true,
   "scripts": {
-    "start": "node r20121106"
+    "start": "node src/server",
+    "test:quick": "node_modules/.bin/artillery quick --duration 20 --rate 10 http://localhost:32000",
+    "test:perf": "artillery run ./tests/perf/get_json_file.json"
   },
   "dependencies": {
+    "artillery": "*",
+    "bower": "*",
+    "bunyan": "*",
     "express": "*",
     "errorhandler": "*",
     "jade": "*",
