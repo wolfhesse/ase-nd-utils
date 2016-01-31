@@ -89,6 +89,13 @@
       "age": 12,
       "comment": "built w/ create-cat script",
       "__v": 0
+    },
+    {
+      "_id": "56ae42272607d2b00b4ce337",
+      "name": "Zildjian @ Sun Jan 31 2016 18:19:35 GMT+0100 (W. Europe Standard Time)",
+      "age": 12,
+      "comment": "built w/ create-cat script",
+      "__v": 0
     }
   ]
 }
