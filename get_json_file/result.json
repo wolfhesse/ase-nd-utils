@@ -1,0 +1,87 @@
+{
+  "kittens": [
+    {
+      "_id": "56ae39605db39e84185aa830",
+      "name": "Renamed",
+      "__v": 0
+    },
+    {
+      "_id": "56ae3963c92526e817c83a94",
+      "name": "Zildjian",
+      "__v": 0
+    },
+    {
+      "_id": "56ae3cfa9726af79b6000001",
+      "name": "sascha: manual;"
+    },
+    {
+      "_id": "56ae3d649726af79b6000002",
+      "name": "joshua"
+    },
+    {
+      "_id": "56ae3e99264584ec0fd4e98e",
+      "name": "Zildjian",
+      "__v": 0
+    },
+    {
+      "_id": "56ae3e9b21747c7c13501192",
+      "name": "Zildjian",
+      "__v": 0
+    },
+    {
+      "_id": "56ae3e9d6bda926420bb0d80",
+      "name": "Zildjian",
+      "__v": 0
+    },
+    {
+      "_id": "56ae3e9e9af766e022dd0710",
+      "name": "Zildjian",
+      "__v": 0
+    },
+    {
+      "_id": "56ae3ea03bbb5a840e257d80",
+      "name": "Zildjian",
+      "__v": 0
+    },
+    {
+      "_id": "56ae3ea1ce9dffb413e8cd25",
+      "name": "Zildjian",
+      "__v": 0
+    },
+    {
+      "_id": "56ae3ea3d5065b581dd27f66",
+      "name": "Zildjian",
+      "__v": 0
+    },
+    {
+      "_id": "56ae3ea42436cc20038e006d",
+      "name": "Zildjian",
+      "__v": 0
+    },
+    {
+      "_id": "56ae3ea56caeea34067a7281",
+      "name": "Zildjian",
+      "__v": 0
+    },
+    {
+      "_id": "56ae3eb3028130c40f45df08",
+      "name": "Zildjian@Sun Jan 31 2016 18:04:51 GMT+0100 (W. Europe Standard Time)",
+      "__v": 0
+    },
+    {
+      "_id": "56ae3eb4c0fe37b00bacfb5f",
+      "name": "Zildjian@Sun Jan 31 2016 18:04:52 GMT+0100 (W. Europe Standard Time)",
+      "__v": 0
+    },
+    {
+      "_id": "56ae3eb686ce33780aad3c5d",
+      "name": "Zildjian@Sun Jan 31 2016 18:04:54 GMT+0100 (W. Europe Standard Time)",
+      "__v": 0
+    },
+    {
+      "_id": "56ae3ebda9536e0c024ca669",
+      "name": "Zildjian@Sun Jan 31 2016 18:05:01 GMT+0100 (W. Europe Standard Time)",
+      "__v": 0
+    }
+  ]
+}
