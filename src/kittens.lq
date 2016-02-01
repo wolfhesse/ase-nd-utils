@@ -5,11 +5,11 @@
 <h3>data</h3>
 <pre>1/ {{  date }}</pre>
 <h3>data.kittens</h3>
-<h4>2/ {{ data.kittens.size }} kittens</h4>
-<pre>3/ {{ data.kittens[10].name }}</pre>
+<h4>2/ {{ kittens.size }} kittens</h4>
+<pre>3/ {{ kittens[10].name }}</pre>
 <h3>kittens iter</h3>
 <ul id="kittens">
-    {% for kitten in data.kittens %}
+    {% for kitten in kittens %}
     <li>
         <h4>{{ kitten.name }}</h4>
     </li>
