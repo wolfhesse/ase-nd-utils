@@ -3,7 +3,7 @@
   "version": "0.4.0",
   "private": true,
   "scripts": {
-    "start": "node src/server",
+    "server": "node src/server",
     "test:quick": "node_modules/.bin/artillery quick --duration 20 --rate 10 http://localhost:32000",
     "test:perf": "artillery run ./tests/perf/get_json_file.json"
   },
@@ -11,20 +11,21 @@
     "artillery": "*",
     "bower": "*",
     "bunyan": "*",
-    "express": "*",
-    "errorhandler": "*",
-    "jade": "*",
-    "kerberos": "*",
-    "mongoose": "*",
-    "stylus": "~0.29.0",
-    "nib": "~0.7.0",
-    "underscore": "*",
+    "coffee-resque": "*",
     "compact": "*",
     "connect-handlebars": "*",
+    "csv": "*",
+    "errorhandler": "*",
+    "express": "*",
     "handlebars-precompiler": "*",
     "hbsc": "*",
-    "csv": "*",
     "http": "*",
-    "coffee-resque": "*"
+    "jade": "*",
+    "kerberos": "*",
+    "liquid-node": "^2.6.1",
+    "mongoose": "*",
+    "nib": "~0.7.0",
+    "stylus": "~0.29.0",
+    "underscore": "*"
   }
 }
