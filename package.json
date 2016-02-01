@@ -23,6 +23,7 @@
     "jade": "*",
     "kerberos": "*",
     "liquid-node": "^2.6.1",
+    "lodash": "*",
     "mongoose": "*",
     "nib": "~0.7.0",
     "stylus": "~0.29.0",
