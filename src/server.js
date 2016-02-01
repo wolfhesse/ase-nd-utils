@@ -10,8 +10,9 @@ var express = require('express');
 var errorHandler = require('errorhandler');
 
 var fs = require('fs');
-
 var app = express();
+var Liquid = require("liquid-node");
+var lqEngine = new Liquid.Engine();
 
 var env = process.env.NODE_ENV || 'development';
 if ('development' == env) {
@@ -47,6 +48,29 @@ app.get('/kittens.csv', function (req, res) {
             // TODO handle that
         }
         res.send(data);
+    });
+});
+
+app.get('/kittens', function (req, res) {
+    log.info('received kittens request, rendering liquid template');
+
+    templateReader = fs.readFile('./src/kittens.lq', 'utf8', function (err, templateF) {
+        if (err) {
+            // TODO handle that
+        }
+        log.info(templateF);
+
+        dataReader = fs.readFile("./src/kittens.json", 'utf8', function (err, data) {
+            if (err) {
+                // TODO handle that
+            }
+            log.info(data);
+            lqEngine.parse(templateF).then(function (template) {
+                return template.render({date: new Date, data: JSON.parse(data) });
+            }).then(function (result) {
+                res.end(result);
+            });
+        });
     });
 });
 
