@@ -1,10 +1,13 @@
 var fs = require('fs');
 var mongoose = require('mongoose');
 
-var config = require('../config');
+var config = require('./config');
 var db = mongoose.createConnection(config.mongo.development.host, config.mongo.development.db);
 
-var schema = mongoose.Schema(config.schemaDefinitions.schema_cat_0.schemaCatDefinition);
+
+var model = require('./model');
+
+var schema = mongoose.Schema(model.schema_cat_0_def.schemaCatDefinition);
 var Cat = db.model('Cat', schema);
 
 nl = function (s) {
