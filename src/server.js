@@ -30,6 +30,10 @@ if ('production' == env) {
 //)
 ;
 
+log.info("__dirname: %s ", __dirname);
+
+// bower install material-design-lite --save
+app.use('/bower_components',  express.static(__dirname + '/../bower_components'));
 
 app.get('/', function (req, res) {
     requestCount++;
