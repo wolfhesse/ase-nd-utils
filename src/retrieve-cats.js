@@ -9,7 +9,7 @@ Cat.find(function (err, kittens) {
         console.log(err)
     }
     else {
-        console.log(kittens)
+        console.log({kittensLength: kittens.length});
 //        console.log('deleting '+kittens[0].name);
 //        kittens[0].remove();
         db.close();

@@ -1,16 +1,20 @@
-var mongoose = require('mongoose');
-var config = require('../config');
-var db = mongoose.createConnection(config.mongo.development.host, config.mongo.development.db);
+// design: reduce-cost-of-change
+var engine=require('./kitten_engine').KittenEngine;
 
-var Cat = db.model('Cat', mongoose.Schema(config.schemaDefinitions.schema_cat_1));
+var kittenData = {
+    here: {
+        name: 'Zildjian',
+        age: 12,
+        comment: ' @per: @create-cat, built w/ create-cat script',
+        //
+        purpose: 'testing',
+        va1kz: 'zulu',
+        // auto-fill: created_at: new Date
+    }
+};
 
-var kitty = new Cat({name: 'Zildjian @ ' + new Date, age: 12, comment: 'built w/ create-cat script'});
+engine.createCat(kittenData);
 
-kitty.save(function (err) {
-    if (err)
-        res.end('meow');
-    db.close();
-});
-
-
-console.log('through');
+kittenData.here.name='Seconder';
+kittenData.here.age=11;
+engine.createCat(kittenData);
