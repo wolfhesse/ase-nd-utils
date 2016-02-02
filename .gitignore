@@ -1,6 +1,8 @@
 node_modules/
 .idea
 
+artillery_report_*
+
 #################
 ## Eclipse
 #################

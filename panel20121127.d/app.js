@@ -94,7 +94,7 @@ var linetracker = new LineTracker(options);
 
 linetracker.on('result', function(result){
     console.log('on result for '+ this.len + ' records');
-    fs.writeFile('./schema/result.json', JSON.stringify(result), function(err){});
+    fs.writeFile('./model/result.json', JSON.stringify(result), function(err){});
 });
 
 
@@ -107,7 +107,7 @@ linetracker.on('line', function(line, cbfunc) {
 
 linetracker.run().on("fin", function(){
     console.log('on fin');
-    fs.writeFile('./schema/result.names.txt',this.o, function(err){});
+    fs.writeFile('./model/result.names.txt',this.o, function(err){});
 })
 
 

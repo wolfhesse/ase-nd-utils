@@ -1,0 +1,8 @@
+{
+  "name": "string",
+  "age": "number",
+  "comment": "string",
+  "purpose": "string",
+  "va1kz": "string",
+  "created_at": "date"
+}
