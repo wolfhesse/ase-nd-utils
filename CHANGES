@@ -1,3 +1,10 @@
+Version 0.7.0:
+ - buchhaltung
+ - data update for: :sample
+ - bower install material-design-lite --save
+ - Merge tag '0.6.0' into develop
+ - Merge branch 'r-0.6.0'
+
 Version 0.6.0:
  - buchhaltung
  - Merge branch 'develop' of github.com:wolfhesse/ase-nd-utils into develop
